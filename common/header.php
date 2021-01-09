@@ -8,8 +8,10 @@
   </div>
   <nav class="grey lighten-4">
     <div class="nav-wrapper">
-      <a href="/" id="logo" class="brand-logo orange-text text-darken-3 valign-wrapper"><img src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" style="width: 150px; height: auto; margin-top: -15%; margin-left: 10%;" alt="Logo" title="Logo"></a>
-      <a data-activates="mobile-demo" class="button-collapse orange-text"><i style="font-size: 40px; margin-top: 50%;" class="material-icons">menu</i></a>
+      <a href="/" id="logo" class="brand-logo orange-text text-darken-3 valign-wrapper">
+        <img class="logo" src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" alt="Logo" title="Logo">
+      </a>
+      <a style="cursor: pointer;" data-activates="mobile-demo" class="button-collapse orange-text"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li>
           <a class="orange-text text-darken-4" href="/">
@@ -23,7 +25,7 @@
         </li>
         <li>
           <a class="orange-text text-darken-4" href="/baseComum">
-            Basem</h5>
+            Base Comum
           </a>
         </li>
         <li>
@@ -61,7 +63,7 @@
     </li>
     <li>
       <a class="orange-text text-darken-4 center-align" href="/baseComum">
-        Base5>
+        Base
       </a>
     </li>
     <li>
@@ -76,7 +78,7 @@
     </li>
     <li>
       <a class="orange-text text-darken-4 center-align" href="/sobre">
-        Sobre<>
+        Sobre
       </a>
     </li>
   </ul>
