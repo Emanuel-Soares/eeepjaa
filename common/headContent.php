@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="/assets/css/header.css">
 
 <?php
-require '/database/index.php';
-$conexao = new Database('localhost', 'root', '', 'eeepjaa');
+// require '/database/index.php';
+// $conexao = new Database('localhost', 'root', '', 'eeepjaa');
 // $conexao = new Database('localhost', 'u622849691_aluno', '123456', 'u622849691_eeepja');
 ?>
