@@ -1,1 +1,1 @@
-console.log("Arquivos js");
+$(".button-collapse").sideNav();

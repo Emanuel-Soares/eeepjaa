@@ -7,6 +7,12 @@
   text-align: center;
   text-decoration: none;
   vertical-align: center;
+  position: relative;
+}
+
+nav{
+  height:100px !important;
+  
 }
 
 nav #logo{
