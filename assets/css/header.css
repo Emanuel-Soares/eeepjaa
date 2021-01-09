@@ -1,0 +1,17 @@
+nav{
+}
+
+.barra-verde{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #014E3C !important;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: center;
+}
+
+nav #logo{
+  margin: 0 5px;
+}
