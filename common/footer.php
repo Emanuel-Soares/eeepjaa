@@ -4,8 +4,8 @@
       <div class="col l6 s4">
          <h5 class="white-text bold">EEEP Joaquim Antônio Albano</h5>
          <p class="grey-text text-lighten-4">Rua Júlio Siqueira,390 - Dionísio Torres</p>
-         <a href="https://www.facebook.com/eeepjalbano" target="_blank"><img src="http://beta.eeepjaa.site/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
-         <a href="https://www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="http://beta.eeepjaa.site/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
+         <a href="https://www.facebook.com/eeepjalbano" target="_blank"><img src="http://beta.eeepjaa.site/assets/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
+         <a href="https://www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="http://beta.eeepjaa.site/assets/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
       </div>
       <div class="col l3 s4">
          <center>
@@ -25,8 +25,8 @@
          <div class="col l6 s6">
             <h5 class="white-text bold">EEEP Joaquim Antônio Albano</h5>
             <p class="grey-text text-lighten-4">Rua Júlio Siqueira,390 - Dionísio Torres</p>
-            <a href="https://www.facebook.com/eeepjalbano" target="_blank"><img src="http://beta.eeepjaa.site/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
-            <a href="https://www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="http://beta.eeepjaa.site/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
+            <a href="https://www.facebook.com/eeepjalbano" target="_blank"><img src="http://beta.eeepjaa.site/assets/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
+            <a href="https://www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="http://beta.eeepjaa.site/assets/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
          </div>
          <div class="col l6 s6">
             <center>
@@ -45,4 +45,4 @@
       </div>
    </div>
 </footer>
-<script src="http://beta.eeepjaa.site/js/index.js"></script>
+<script src="http://beta.eeepjaa.site/assets/js/index.js"></script>
