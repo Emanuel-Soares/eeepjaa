@@ -5,7 +5,7 @@
     (85) 3101-2072</a> |
     <a class="white-text" href="mailto:eeepjalbano@gmail.com"><sub><i class="tiny material-icons" style="position: relative;top: 50%;">email</i></sub> eeepjalbano@gmail.com</a>
   </div>
-  <nav class="white">
+  <nav class="grey lighten-4">
     <div class="nav-wrapper">
       <a href="/" id="logo" class="brand-logo orange-text text-darken-3 valign-wrapper">EEEP JAA</a>
       <a href data-target="mobile-demo" class="sidenav-trigger">
@@ -13,30 +13,30 @@
       </a>
       <ul class="right hide-on-med-and-down">
         <li>
-          <a class="orange-text text-darken-3" href="/">Home</a>
+          <a class="orange-text text-darken-4" href="/">Home</a>
         </li>
         <li>
-          <a class="orange-text text-darken-3" href="/cursos">Cursos</a>
+          <a class="orange-text text-darken-4" href="/cursos">Cursos</a>
         </li>
         <li>
-          <a class="orange-text text-darken-3" href="/baseComum">Base Comum</a>
+          <a class="orange-text text-darken-4" href="/baseComum">Base Comum</a>
         </li>
         <li>
-          <a class="orange-text text-darken-3" href="/gestao">Gestão</a>
+          <a class="orange-text text-darken-4" href="/gestao">Gestão</a>
         </li>
         <li>
-          <a class="orange-text text-darken-3" href="/eventos">Eventos</a>
+          <a class="orange-text text-darken-4" href="/eventos">Eventos</a>
         </li>
         <li>
-          <a class="orange-text text-darken-3" href="/sobre">Sobre</a>
+          <a class="orange-text text-darken-4" href="/sobre">Sobre</a>
         </li>
       </ul>
     </div>
   </nav>
 
-  <ul class="sidenav" id="mobile-demo">
-    <li><a class="orange-text text-darken-3" href="/cursos">Cursos</a></li>
-    <li><a class="orange-text text-darken-3" href="/gestao">Gestão</a></li>
-    <li><a class="orange-text text-darken-3" href="/sobre">Sobre</a></li>
+  <ul class="sidenav grey lighten-4" id="mobile-demo">
+    <li><a class="orange-text text-darken-4" href="/cursos">Cursos</a></li>
+    <li><a class="orange-text text-darken-4" href="/gestao">Gestão</a></li>
+    <li><a class="orange-text text-darken-4" href="/sobre">Sobre</a></li>
   </ul>
 </header>

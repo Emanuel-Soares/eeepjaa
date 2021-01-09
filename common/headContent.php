@@ -6,8 +6,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
-<link rel="stylesheet" href="/assets/css/index.css">
-<link rel="stylesheet" href="/assets/css/header.css">
+<link rel="stylesheet" href="http://beta.eeepjaa.site/assets/css/index.css">
+<link rel="stylesheet" href="http://beta.eeepjaa.site/assets/css/header.css">
 
 <?php
 // require '/database/index.php';
