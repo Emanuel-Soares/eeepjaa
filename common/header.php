@@ -1,6 +1,5 @@
 <header>
   <div class="barra-verde white-text">
-    <img src="http://beta.eeepjaa.site/assets/icons/gov.png" height="17px" style="left: 5px; position: absolute" alt="Logo" title="Brasão">
     <a class="white-text" href="tel:08531012072">
       <sub><i class="tiny material-icons white-text">phone</i></sub>
       (85) 3101-2072</a> |
@@ -9,7 +8,7 @@
   <nav class="grey lighten-4">
     <div class="nav-wrapper">
       <a href="/" id="logo" class="brand-logo orange-text text-darken-3 valign-wrapper">
-        <img class="logo" src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" alt="Logo" title="Logo">
+        <img class="logo" src="assets/icons/EEEPJAA.png" alt="Logo" title="Logo">
       </a>
       <a style="cursor: pointer;" data-activates="mobile-demo" class="button-collapse orange-text"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
@@ -49,7 +48,7 @@
 
   <ul class="side-nav grey lighten-4" id="mobile-demo">
     <div style="margin: 20px 0 0 80px;">
-      <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="Logo" title="Logo"></a>
+      <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="Logo" title="Logo"></a>
     </div>
     <li>
       <a class="orange-text text-darken-4 center-align" href="/">
