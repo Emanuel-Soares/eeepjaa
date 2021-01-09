@@ -8,26 +8,38 @@
   </div>
   <nav class="grey lighten-4">
     <div class="nav-wrapper">
-      <a href id="logo" class="brand-logo orange-text text-darken-3 valign-wrapper"><img src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" style="width: 150px; height: auto; margin-top: -15%; margin-left: 10%;" alt="Logo" title="Logo"></a>
+      <a href="/" id="logo" class="brand-logo orange-text text-darken-3 valign-wrapper"><img src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" style="width: 150px; height: auto; margin-top: -15%; margin-left: 10%;" alt="Logo" title="Logo"></a>
       <a data-activates="mobile-demo" class="button-collapse orange-text"><i style="font-size: 40px; margin-top: 50%;" class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li>
-          <h1><a class="orange-text text-darken-4" href><h5>Home</h5></a></h1>
+          <a class="orange-text text-darken-4" href="/">
+            Home
+          </a>
         </li>
         <li>
-          <h1><a class="orange-text text-darken-4" href="/cursos"><h5>Cursos</h5></a></h1>
+          <a class="orange-text text-darken-4" href="/cursos">
+            Cursos
+          </a>
         </li>
         <li>
-          <h1><a class="orange-text text-darken-4" href="/baseComum"><h5>Base Comum</h5></a></h1>
+          <a class="orange-text text-darken-4" href="/baseComum">
+            Basem</h5>
+          </a>
         </li>
         <li>
-          <h1><a class="orange-text text-darken-4" href="/gestao"><h5>Gestão</h5></a></h1>
+          <a class="orange-text text-darken-4" href="/gestao">
+            Gestão
+          </a>
         </li>
         <li>
-          <h1><a class="orange-text text-darken-4" href="/eventos"><h5>Eventos</h5></a></h1>
+          <a class="orange-text text-darken-4" href="/eventos">
+            Eventos
+          </a>
         </li>
         <li>
-          <h1><a class="orange-text text-darken-4" href="/sobre"><h5>Sobre</h5></a></h1>
+          <a class="orange-text text-darken-4" href="/sobre">
+            Sobre
+          </a>
         </li>
       </ul>
     </div>
@@ -35,25 +47,37 @@
 
   <ul class="side-nav grey lighten-4" id="mobile-demo">
     <div style="margin: 20px 0 0 80px;">
-      <a href id="logo" class="brand-logo orange-text text-darken-3"><img src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="Logo" title="Logo"></a>
+      <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="http://beta.eeepjaa.site/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="Logo" title="Logo"></a>
     </div>
-        <li>
-          <a class="orange-text text-darken-4 center-align" href><h5>Home</h5></a>
-        </li>
-        <li>
-          <a class="orange-text text-darken-4 center-align" href="/cursos"><h5>Cursos</h5></a>
-        </li>
-        <li>
-          <a class="orange-text text-darken-4 center-align" href="/baseComum"><h5>Base Comum</h5></a>
-        </li>
-        <li>
-          <a class="orange-text text-darken-4 center-align" href="/gestao"><h5>Gestão</h5></a>
-        </li>
-        <li>
-          <a class="orange-text text-darken-4 center-align" href="/eventos"><h5>Eventos</h5></a>
-        </li>
-        <li>
-          <a class="orange-text text-darken-4 center-align" href="/sobre"><h5>Sobre</h5></a>
-        </li>
+    <li>
+      <a class="orange-text text-darken-4 center-align" href="/">
+        Home
+      </a>
+    </li>
+    <li>
+      <a class="orange-text text-darken-4 center-align" href="/cursos">
+        Cursos
+      </a>
+    </li>
+    <li>
+      <a class="orange-text text-darken-4 center-align" href="/baseComum">
+        Base5>
+      </a>
+    </li>
+    <li>
+      <a class="orange-text text-darken-4 center-align" href="/gestao">
+        Gestão
+      </a>
+    </li>
+    <li>
+      <a class="orange-text text-darken-4 center-align" href="/eventos">
+        Eventos
+      </a>
+    </li>
+    <li>
+      <a class="orange-text text-darken-4 center-align" href="/sobre">
+        Sobre<>
+      </a>
+    </li>
   </ul>
 </header>
