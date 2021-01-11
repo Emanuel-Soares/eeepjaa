@@ -1,0 +1,30 @@
+.slider {
+  position: relative !important;
+}
+
+#carousel-prev-button {
+  color: #fff;
+  font-size: 2em !important;
+  margin: 20px;
+  background-color: #fff2;
+  pointer-events: all;
+}
+
+#carousel-next-button {
+  margin: 20px;
+  color: #fff;
+  font-size: 2em !important;
+  background-color: #fff2;
+  pointer-events: all;
+}
+
+.space-between {
+  position: absolute;
+  top: 0;
+  display: flex;
+  width: 100%;
+  height: 100% !important;
+  justify-content: space-between;
+  align-items: center;
+  pointer-events: none;
+}

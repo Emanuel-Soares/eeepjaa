@@ -12,7 +12,11 @@
     min-height: 100vh;
     overflow-x: hidden;
   }
-
+  
   main {
     flex: auto !important;
+  }
+
+  .footer-copyright{
+    background-color: #004237 !important ;
   }
