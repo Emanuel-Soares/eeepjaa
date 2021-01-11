@@ -1,12 +1,18 @@
 .slider {
   position: relative !important;
+  height: 400px !important;
+}
+
+.slider img {
+  object-fit: cover;
+  height: 100%;
 }
 
 #carousel-prev-button {
   color: #fff;
   font-size: 2em !important;
   margin: 20px;
-  background-color: #fff2;
+  background-color: rgba(165, 165, 165, 0.133);
   pointer-events: all;
 }
 
@@ -27,4 +33,9 @@
   justify-content: space-between;
   align-items: center;
   pointer-events: none;
+}
+
+.cursos img {
+  width: 80%;
+  /* height: 20%; */
 }
