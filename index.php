@@ -5,7 +5,9 @@
 
 <body>
   <?php include 'common/header.php' ?>
-  <main></main>
+  <main>
+    Página home
+  </main>
   <?php include 'common/footer.php' ?>
 </body>
 
