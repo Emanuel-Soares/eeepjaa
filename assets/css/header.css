@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #014e3c !important;
+  background-color: #3BA378 !important;
   width: 100%;
   text-align: center;
   text-decoration: none;
@@ -22,3 +22,4 @@ nav #logo {
 .logo {
   height: 100%;
 }
+

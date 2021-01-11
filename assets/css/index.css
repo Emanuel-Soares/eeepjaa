@@ -3,11 +3,9 @@
 }
 
 /* Footer */
-footer{
-  background-color: #014E3C !important;
+footer.page-footer{
+  background-color: #3BA378 !important;
 }
-
-.black-text { color: #111 !important; }
 
 /* Resto */
 html,

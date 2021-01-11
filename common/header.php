@@ -13,32 +13,32 @@
       <a style="cursor: pointer;" data-activates="mobile-demo" class="button-collapse orange-text"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li>
-          <a class="orange-text text-darken-4" href="/">
+          <a class="orange-text" href="/">
             Home
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="./cursos">
+          <a class="orange-text" href="./cursos">
             Cursos
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="./baseComum">
+          <a class="orange-text" href="./baseComum">
             Base Comum
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="./gestao">
+          <a class="orange-text" href="./gestao">
             Gestão
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="./eventos">
+          <a class="orange-text" href="./eventos">
             Eventos
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="./sobre">
+          <a class="orange-text" href="./sobre">
             Sobre
           </a>
         </li>
