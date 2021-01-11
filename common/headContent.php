@@ -11,9 +11,9 @@
 <script src="https:/cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 
 <!-- CSS Local -->
-<link rel="stylesheet" href="/eeepjaa/assets/css/index.css">
-<link rel="stylesheet" href="/eeepjaa/assets/css/header.css">
-<link rel="stylesheet" href="/eeepjaa/assets/css/home/slider.css">
+<link rel="stylesheet" href="/assets/css/index.css">
+<link rel="stylesheet" href="/assets/css/header.css">
+<link rel="stylesheet" href="/assets/css/home/slider.css">
 <?php
 // require '/database/index.php';
 // $conexao = new Database('localhost', 'root', '', 'eeepjaa');
