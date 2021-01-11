@@ -1,9 +1,11 @@
 <header>
   <div class="barra-verde white-text">
-    <a class="white-text" href="tel:08531012072">
-      <sub><i class="tiny material-icons white-text">phone</i></sub>
-      (85) 3101-2072</a> |
-    <a class="white-text" href="mailto:eeepjalbano@gmail.com"><sub><i class="tiny material-icons" style="position: relative;top: 50%;">email</i></sub> eeepjalbano@gmail.com</a>
+    <div id="up_icons">
+        <a class="white-text" href="tel:08531012072">
+            <sub><i class="tiny material-icons white-text">phone</i></sub>
+            (85) 3101-2072</a> 
+        <a class="white-text" href="mailto:eeepjalbano@gmail.com"><sub><i class="tiny material-icons" style="position: relative;top: 50%;">email</i></sub> eeepjalbano@gmail.com</a>
+    </div>
   </div>
   <nav class="grey lighten-4">
     <div class="nav-wrapper">

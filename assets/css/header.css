@@ -4,10 +4,17 @@
   align-items: center;
   background-color: #3BA378 !important;
   width: 100%;
-  text-align: center;
   text-decoration: none;
   vertical-align: center;
   position: relative;
+}
+
+.barra-verde a{
+    padding: 0 8px;
+}
+
+#up_icons {
+    display: block;
 }
 
 nav #logo {

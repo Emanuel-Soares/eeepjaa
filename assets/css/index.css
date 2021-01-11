@@ -24,3 +24,26 @@ body {
 main {
   flex: auto !important;
 }
+
+.card_center {
+  display: flex;
+  flex-flow: column nowrap;  
+  align-items: center;
+  justify-content: center;
+}
+
+.social {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text_center {
+  align-text: center;
+}
+
+#mob {
+  max-width: 120px !important;
+  min-width: 40px !important;
+}
