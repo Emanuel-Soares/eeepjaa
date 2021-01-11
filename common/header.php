@@ -8,7 +8,7 @@
   <nav class="grey lighten-4">
     <div class="nav-wrapper">
       <a href="/" id="logo" class="brand-logo orange-text text-darken-3 valign-wrapper">
-        <img class="logo" src="/assets/icons/EEEPJAA.png" alt="Logo" title="Logo">
+        <img class="logo" src="./assets/icons/EEEPJAA.avif" alt="Logo" title="Logo">
       </a>
       <a style="cursor: pointer;" data-activates="mobile-demo" class="button-collapse orange-text"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
@@ -18,27 +18,27 @@
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="/cursos">
+          <a class="orange-text text-darken-4" href="./cursos">
             Cursos
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="/baseComum">
+          <a class="orange-text text-darken-4" href="./baseComum">
             Base Comum
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="/gestao">
+          <a class="orange-text text-darken-4" href="./gestao">
             Gestão
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="/eventos">
+          <a class="orange-text text-darken-4" href="./eventos">
             Eventos
           </a>
         </li>
         <li>
-          <a class="orange-text text-darken-4" href="/sobre">
+          <a class="orange-text text-darken-4" href="./sobre">
             Sobre
           </a>
         </li>
@@ -48,7 +48,7 @@
 
   <ul class="side-nav grey lighten-4" id="mobile-demo">
     <div style="margin: 20px 0 0 80px;">
-      <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="Logo" title="Logo"></a>
+      <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="./assets/icons/EEEPJAA.avif" height="90px" style="margin-top: -8px; margin-left: 10px" alt="Logo" title="Logo"></a>
     </div>
     <li>
       <a class="orange-text text-darken-4 center-align" href="/">
