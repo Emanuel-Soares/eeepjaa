@@ -12,7 +12,10 @@
     min-height: 100vh;
     overflow-x: hidden;
   }
-  
+  /* Fonte */
+  .atma{
+    font-family: 'Atma', cursive;
+  }
   main {
     flex: auto !important;
   }
