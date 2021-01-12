@@ -6,7 +6,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 10% 0;
+  padding: 15% 0;
+}
+
+.mission-heading {
+  text-shadow: 2px 3px 2px #f57c00;
 }
 
 .content-mission {
@@ -18,7 +22,7 @@
 @media(max-width: 768px) {
   .content-mission {
     width: 90% !important;
-    font-size: 1em;
+    font-size: 1.3em;
   }
 }
 

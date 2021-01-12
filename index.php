@@ -3,6 +3,7 @@
 
 <head>
   <?php include 'common/headContent.php' ?>
+  <title> Página Inicial</title>
 </head>
 
 <body>
