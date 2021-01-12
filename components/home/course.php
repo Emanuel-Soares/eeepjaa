@@ -39,7 +39,7 @@
         </div>
       </div>
     </div>
-    <div class="col l4 m8 s12 push-m3">
+    <div class="col l4 m8 s12 push-m2">
       <div class="card">
         <div class="card-image">
           <img src="/assets/img/home/seguranca.png" alt="Segurança do Trabalho">
