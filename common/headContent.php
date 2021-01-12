@@ -16,6 +16,8 @@
 <link rel="stylesheet" href="/assets/css/header.css">
 <link rel="stylesheet" href="/assets/css/home/slider.css">
 <link rel="stylesheet" href="/assets/css/gestao/styles.css">
+
+<script src="/assets/js/gestao.js"></script>
 <?php
 // require '/database/index.php';
 // $conexao = new Database('localhost', 'root', '', 'eeepjaa');

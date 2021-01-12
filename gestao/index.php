@@ -7,6 +7,7 @@
   <?php include '../common/header.php' ?>
   <main>
     <div class="container ">
+      <a href="#prof">professores</a>
       <h3>Núcleo Gestor</h3>
       <div class="row">
         <div class="col s6 m4">
@@ -104,7 +105,7 @@
         </div>
       </div>
       <h3>Professores</h3>
-      <div class="row">
+      <div class="row" id="prof">
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
