@@ -1,0 +1,14 @@
+.courses h3 {
+  font-size: 1.8em;
+}
+
+.courses {
+  margin: 20px 0 0 0;
+}
+
+.courses-heading {
+  margin-bottom: -20px;
+  text-shadow: 2px 3px 2px #f57c00;
+  padding: 0;
+  line-height: 2em;
+}

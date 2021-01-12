@@ -9,6 +9,8 @@
   <?php include 'common/header.php' ?>
   <main>
     <?php include 'components/home/slider.php' ?>
+    <?php include 'components/home/course.php' ?>
+    <?php include 'components/home/mission.php' ?>
   </main>
   <?php include 'common/footer.php' ?>
 </body>

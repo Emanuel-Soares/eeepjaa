@@ -1,0 +1,36 @@
+.mission {
+  background-image: url(/eeepjaa/assets/img/quadro.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10% 0;
+}
+
+.content-mission {
+  font-size: 2em;
+  max-width: 50%;
+  text-align: center;
+}
+
+@media(max-width: 768px) {
+  .content-mission {
+    width: 90% !important;
+    font-size: 1em;
+  }
+}
+
+@media(max-width: 950px) {
+  .content-mission {
+    max-width: 70%;
+    font-size: 1.5em;
+  }
+}
+
+@media(max-width: 600px) {
+  .content-mission {
+    font-size: 1em;
+  }
+}

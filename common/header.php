@@ -8,7 +8,7 @@
     <nav class="grey lighten-4">
         <div class="nav-wrapper">
             <a href="/" id="logo" class="brand-logo orange-text text-darken-3">
-                <img class="logo" src="/assets/icons/EEEPJAA.png" alt="EEEP JAA" title="EEEP JAA">
+                <img class="logo" src="/eeepjaa/assets/icons/EEEPJAA.png" alt="EEEP JAA" title="EEEP JAA">
             </a>
             <a style="cursor: pointer;" data-activates="mobile-demo" class="button-collapse orange-text"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
@@ -48,7 +48,7 @@
 
     <ul class="side-nav grey lighten-4" id="mobile-demo">
         <div style="margin: 20px 0 0 80px;">
-            <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="EEEP JAA" title="EEEP JAA"></a>
+            <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="/eeepjaa/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="EEEP JAA" title="EEEP JAA"></a>
         </div>
         <li>
             <a class="orange-text text-darken-4 center-align" href="/">
