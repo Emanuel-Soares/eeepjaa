@@ -20,4 +20,4 @@ Fazer sumário com linkagens para títulos
   - Com o intuito de divulgar e dar mais acessibilidade as informações da escola para a sociedade por meio da Internet, assim ampliando os meios de difusão da instituição. 
 
 ## Acesso
-- Acesse o site em [beta.eeepjaa.site](https://beta.eeepjaa.site)
+- Acesse o site em [beta.eeepjaa.site](http://beta.eeepjaa.site)
