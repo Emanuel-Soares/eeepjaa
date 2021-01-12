@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 
-<head><?php include '../common/headContent.php' ?></head>
+<head>
+  <?php include '../common/headContent.php' ?>
+</head>
 
 <body>
   <?php include '../common/header.php' ?>
@@ -153,6 +155,7 @@
         </div>
       </div>
     </div>
+    <a href="#" id="return-to-top"><i class="material-icons">arrow_upward</i></a>
   </main>
   <?php include '../common/footer.php' ?>
 </body>
