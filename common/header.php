@@ -8,7 +8,7 @@
     <nav class="grey lighten-4">
         <div class="nav-wrapper">
             <a href="/" id="logo" class="brand-logo orange-text text-darken-3">
-                <img class="logo" src="/eeepjaa/assets/icons/EEEPJAA.png" alt="EEEP JAA" title="EEEP JAA">
+                <img class="logo" src="/assets/icons/EEEPJAA.png" alt="EEEP JAA" title="EEEP JAA">
             </a>
             <a style="cursor: pointer;" data-activates="mobile-demo" class="button-collapse orange-text"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">

@@ -8,10 +8,10 @@
       </button>
     </div>
     <div class="carousel-item white-text">
-      <img src="/eeepjaa/assets/img/slider/eeep.jpg" alt="EEEPJAA">
+      <img src="/assets/img/slider/eeep.jpg" alt="EEEPJAA">
     </div>
     <div class="carousel-item white-text">
-      <img src="/eeepjaa/assets/img/slider/escola.png" alt="EEEPJAA">
+      <img src="/assets/img/slider/escola.png" alt="EEEPJAA">
     </div>
     <div class="carousel-item green white-text">
       <h2>Third Panel</h2>

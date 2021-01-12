@@ -12,16 +12,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <!-- CSS Local -->
-<link rel="stylesheet" href="/eeepjaa/assets/css/index.css">
-<link rel="stylesheet" href="/eeepjaa/assets/css/header.css">
+<link rel="stylesheet" href="/assets/css/index.css">
+<link rel="stylesheet" href="/assets/css/header.css">
 
-<link rel="stylesheet" href="/eeepjaa/assets/css/home/slider.css">
-<link rel="stylesheet" href="/eeepjaa/assets/css/home/course.css">
-<link rel="stylesheet" href="/eeepjaa/assets/css/home/mission.css">
+<link rel="stylesheet" href="/assets/css/home/slider.css">
+<link rel="stylesheet" href="/assets/css/home/course.css">
+<link rel="stylesheet" href="/assets/css/home/mission.css">
 
-<link rel="stylesheet" href="/eeepjaa/assets/css/gestao/styles.css">
+<link rel="stylesheet" href="/assets/css/gestao/styles.css">
 
-<script src="/eeepjaa/assets/js/gestao.js"></script>
+<script src="/assets/js/gestao.js"></script>
 <?php
 // require '/database/index.php';
 // $conexao = new Database('localhost', 'root', '', 'eeepjaa');
