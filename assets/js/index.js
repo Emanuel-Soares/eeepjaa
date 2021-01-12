@@ -7,5 +7,5 @@ $('#carousel-next-button').click(() => $('.carousel').carousel('next'))
 $(document).ready(() => {
   setInterval(() => {
     $('.carousel').carousel('next')
-  }, 10000)
+  }, 8000)
 })

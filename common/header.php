@@ -48,7 +48,7 @@
 
     <ul class="side-nav grey lighten-4" id="mobile-demo">
         <div style="margin: 20px 0 0 80px;">
-            <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="/eeepjaa/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="EEEP JAA" title="EEEP JAA"></a>
+            <a href="/" id="logo" class="brand-logo orange-text text-darken-3"><img src="/assets/icons/EEEPJAA.png" height="90px" style="margin-top: -8px; margin-left: 10px" alt="EEEP JAA" title="EEEP JAA"></a>
         </div>
         <li>
             <a class="orange-text text-darken-4 center-align" href="/">
