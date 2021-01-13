@@ -15,38 +15,39 @@
   <?php include '../common/header.php' ?>
   <!--======= MENU ========-->
   <!--======= CABEÇALHO ========-->
+  <?php include '../components/cursos/slider.php' ?>
   <!-- Animações em Slider -->
-  <div class="slider">
-    <ul class="slides">
-      <li>
-        <a href="#enf">
-          <div class="center-align">
-            <h3>Grade de Cursos</h3>
-            <video class="responsive-video circle" loop="" src="img/enf.mp4" autoplay="" alt=""></video>
-            <h4>Enfermagem</h4>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a href="#inf">
-          <div class="center-align">
-            <h3>Grade de Cursos</h3>
-            <video class="responsive-video circle" loop="" src="img/enf.mp4" autoplay="" alt=""></video>
-            <h4>Informática</h4>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a href="#seg">
-          <div class="center-align">
-            <h3>Grade de Cursos</h3>
-            <video class="responsive-video circle" loop="" src="img/enf.mp4" autoplay="" alt=""></video>
-            <h4>Segurança do Trabalho</h4>
-          </div>
-        </a>
-      </li>
-    </ul>
-  </div>
+  <!--<div class="slider">-->
+  <!--  <ul class="slides">-->
+  <!--    <li>-->
+  <!--      <a href="#enf">-->
+  <!--        <div class="center-align">-->
+  <!--          <h3>Grade de Cursos</h3>-->
+  <!--          <video class="responsive-video circle" loop="" src="img/enf.mp4" autoplay="" alt=""></video>-->
+  <!--          <h4>Enfermagem</h4>-->
+  <!--        </div>-->
+  <!--      </a>-->
+  <!--    </li>-->
+  <!--    <li>-->
+  <!--      <a href="#inf">-->
+  <!--        <div class="center-align">-->
+  <!--          <h3>Grade de Cursos</h3>-->
+  <!--          <video class="responsive-video circle" loop="" src="img/enf.mp4" autoplay="" alt=""></video>-->
+  <!--          <h4>Informática</h4>-->
+  <!--        </div>-->
+  <!--      </a>-->
+  <!--    </li>-->
+  <!--    <li>-->
+  <!--      <a href="#seg">-->
+  <!--        <div class="center-align">-->
+  <!--          <h3>Grade de Cursos</h3>-->
+  <!--          <video class="responsive-video circle" loop="" src="img/enf.mp4" autoplay="" alt=""></video>-->
+  <!--          <h4>Segurança do Trabalho</h4>-->
+  <!--        </div>-->
+  <!--      </a>-->
+  <!--    </li>-->
+  <!--  </ul>-->
+  <!--</div>-->
   <!--======== PRINCIPAL ======= -->
   <main class="principal" id="principal">
     <!-- Título e introdução dos Cursos -->
@@ -63,7 +64,7 @@
       <!-- ====== CURSOS ======= -->
       <ul class="collapsible">
         <!-- Enfermagem -->
-        <li class="active" id="enf">
+        <li class="active" id="enfermagem">
           <div class="collapsible-header">
             <label class="titulo">
               <h1 class="enfermagem"></h1>Enfermagem
@@ -97,7 +98,7 @@
           </div>
         </li>
         <!-- Informática -->
-        <li id="inf">
+        <li id="informatica">
           <div class="collapsible-header">
             <label class="titulo">
               <h1 class="informatica"></h1>Informática
@@ -133,7 +134,7 @@
           </div>
         </li>
         <!-- Segurança do Trabalho -->
-        <li id="seg">
+        <li id="seguranca">
           <div class="collapsible-header">
             <label class="titulo">
               <h1 class="seguranca"></h1>Segurança
