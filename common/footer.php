@@ -45,3 +45,4 @@
   </div>
 </footer>
 <script src="/assets/js/index.js"></script>
+<script src="/assets/js/gestao.js"></script>

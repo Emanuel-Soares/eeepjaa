@@ -1,573 +1,585 @@
 /* ====== RESET ======== */
-*{margin: 0; padding: 0; border: none; outline: none; box-sizing: border-box;}
-a{text-decoration: none;}
-ul{list-style: none;}
-img{max-width: 100%;}
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+}
 /* ======= ANIMATION ======== */
-.slider{
-    background: #ff4500;
+.slider {
+  background: #ff4500;
 }
-.center-align{
-	margin-top: 25%;
+.center-align {
+  margin-top: 25%;
 }
-.slider h3{
-    color: #004d40;
-    margin-top: -20%;
+.slider h3 {
+  color: #004d40;
+  margin-top: -20%;
 }
-.slider h4{
-    color: #004d40;
-    margin-top: 1%;
+.slider h4 {
+  color: #004d40;
+  margin-top: 1%;
 }
-.slides li{	
-	width: 10%;
-	background: white;
+.slides li {
+  width: 10%;
+  background: white;
 }
-video{
-	margin-top: 1%;
-	width: 250px;
+video {
+  margin-top: 1%;
+  width: 250px;
 }
 /* ====== PRINCIPAL ======= */
-.principal{
-	width: 100%;
-	height: 480px;
-	margin-bottom: 170%;
+.principal {
+  width: 100%;
+  height: 480px;
+  margin-bottom: 170%;
 }
 /* ====== CURSOS ======= */
-.cursos{
-	margin-left: 10%;
-	margin-top: 0%;
+.cursos {
+  margin-left: 10%;
+  margin-top: 0%;
 }
 /* Título e introdução dos cursos  */
-.introd-cursos h4{
-	color: #004d40;
-	text-align: center;
+.introd-cursos h4 {
+  color: #004d40;
+  text-align: center;
 }
-.introd-cursos p{
-	margin-left: 1%;
-	text-align: justify;
-	width: 97%;
-	text-indent: 20px;
+.introd-cursos p {
+  margin-left: 1%;
+  text-align: justify;
+  width: 97%;
+  text-indent: 20px;
 }
 /* Div responsável pelo agupamento dos cursos */
-.cursos{
-	margin-left: 1%;
+.cursos {
+  margin-left: 1%;
 }
-.collapsible{
-	width: 100%;
+.collapsible {
+  width: 100%;
 }
-.collapsible li{
-	margin-left: -13%;
+.collapsible li {
+  margin-left: -13%;
 }
 /* Título sobre o estágio */
-.collapsible-header{
-	width: 100%;
-	margin-left: -0.5%;
+.collapsible-header {
+  width: 100%;
+  margin-left: -0.5%;
 }
-.collapsible-header p{
-	text-align: justify;
-	text-indent: 20px;
-	margin-left: 4%;
+.collapsible-header p {
+  text-align: justify;
+  text-indent: 20px;
+  margin-left: 4%;
 }
-.collapsible-body{
- 	background: white;
- 	margin-left: -0.5%;
+.collapsible-body {
+  background: white;
+  margin-left: -0.5%;
 }
-.collapsible-body h5{
-	margin-top: 5%;
-	margin-bottom: 5%;
-	margin-left: 9%;
-	color: #004d40;
+.collapsible-body h5 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 9%;
+  color: #004d40;
 }
 /* Label do título de cada curso */
-.titulo{
-	font-size: 1.5em;
-	margin-top: -2%;
-	margin-left: 9%;
-	text-align: center;
-	color: #004d40;
+.titulo {
+  font-size: 1.5em;
+  margin-top: -2%;
+  margin-left: 9%;
+  text-align: center;
+  color: #004d40;
 }
 /* Imagem do curso de Enfermagem */
-.enfermagem{
-	font-size: 0;
-	width: 96px;
-	height: 96px;
-	background: url(../img/enfermagem.png) center center/96px no-repeat; 
-	margin-left: 10%;
-	margin-top: 7%;
+.enfermagem {
+  font-size: 0;
+  width: 96px;
+  height: 96px;
+  background: url(../img/enfermagem.png) center center/96px no-repeat;
+  margin-left: 10%;
+  margin-top: 7%;
 }
 /* Imagem do curso de Informática */
-.informatica{ 
-	font-size: 0;
-	width: 96px;
-	height: 96px;
-	background: url(../img/informatica.png) center center/96px no-repeat; 
-	margin-left: 7%;
-	margin-top: 7%;
+.informatica {
+  font-size: 0;
+  width: 96px;
+  height: 96px;
+  background: url(../img/informatica.png) center center/96px no-repeat;
+  margin-left: 7%;
+  margin-top: 7%;
 }
 /* Imagem do curso de Segurança do Trabalho */
-.seguranca{ 
-	font-size: 0;
-	width: 70px;
-	height: 70px;
-	background: url(../img/seguranca.png) center center/70px no-repeat; 
-	margin-left: 15%;
-	margin-top: 10%;
+.seguranca {
+  font-size: 0;
+  width: 70px;
+  height: 70px;
+  background: url(../img/seguranca.png) center center/70px no-repeat;
+  margin-left: 15%;
+  margin-top: 10%;
 }
 /* Parágrafo do título de cada curso */
-.p-titulo{
-	margin-top: 2%;
+.p-titulo {
+  margin-top: 2%;
 }
-.cursos-p{
-	margin-left: 9%;
-	text-align: justify;
-	width: 94%;
-	text-indent: 20px;
+.cursos-p {
+  margin-left: 9%;
+  text-align: justify;
+  width: 94%;
+  text-indent: 20px;
 }
-#p-titulo-seguranca{
-		margin-left: 6.5%;
+#p-titulo-seguranca {
+  margin-left: 6.5%;
 }
-#p-titulo-informatica{
-	margin-left: 6.5%;
+#p-titulo-informatica {
+  margin-left: 6.5%;
 }
 /* ====== INSCRIÇÃO ======= */
 /* Div "inscricao" */
-.inscricao{
-	width: 100%;
-	height: auto;
-	background: #ff4500;
-	margin-top: 54%;
-	margin-bottom: 10%;
+.inscricao {
+  width: 100%;
+  height: auto;
+  background: #ff4500;
+  margin-top: 54%;
+  margin-bottom: 10%;
 }
 /* Imagem dos documentos da Inscrição */
-.card-image img{
-	height: 150px;
-	width: 100px;
+.card-image img {
+  height: 150px;
+  width: 100px;
 }
 /* Div esquerda (documentos pessoais) da div "inscricao" */
-#card-left{
-	height: 377px;
+#card-left {
+  height: 377px;
 }
 /* Lista da div esquerda dos documentos */
-#card-left li{
-	padding-top: 10%;
+#card-left li {
+  padding-top: 10%;
 }
 /* Div direita (documentos escolares) da div "inscricao" */
-#card-right{
-	height: 377px;
+#card-right {
+  height: 377px;
 }
 /* Páragrafo da div direita dos documentos escolares */
-#card-right li p{
-	font-size: 0.8em;
-	margin-top: 1%;
+#card-right li p {
+  font-size: 0.8em;
+  margin-top: 1%;
 }
 /* Título da div direita dos documentos */
-#card-title{
-	margin-bottom: 15%;
+#card-title {
+  margin-bottom: 15%;
 }
 /* Páragrafos das listas dos documentos  */
-.card-content ul li p{
-	text-align: justify;
+.card-content ul li p {
+  text-align: justify;
 }
 /* Título 1 da div "inscricao" */
-.tit-p h4{
-	font-size: 1.7em;
-	text-align: center;
-	color: white;
-	font-weight: 700;
-	padding-top: 10%;
+.tit-p h4 {
+  font-size: 1.7em;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  padding-top: 10%;
 }
 /* Parágrafo 1 da div "inscricao" */
-.tit-p p{
-	text-align: justify;
-	width: 95%;
-	margin-left: 2.5%;
-	color: white;
-	font-weight: 500;
-	padding-top: 2%;
-	padding-bottom: 3%;
+.tit-p p {
+  text-align: justify;
+  width: 95%;
+  margin-left: 2.5%;
+  color: white;
+  font-weight: 500;
+  padding-top: 2%;
+  padding-bottom: 3%;
 }
 /* Título 2 da div "inscricao" */
-.tit-p-2 h4{
-	font-size: 1.7em;
-	text-align: center;
-	color: white;
-	font-weight: 700;
+.tit-p-2 h4 {
+  font-size: 1.7em;
+  text-align: center;
+  color: white;
+  font-weight: 700;
 }
 /* Parágrafo 2 da div "inscricao" */
-.tit-p-2 p{
-	text-align: justify;
-	width: 95%;
-	margin-left: 2.5%;
-	color: white;	
-	font-weight: 500;
-	padding-top: 2%;
-	padding-bottom: 3%;
+.tit-p-2 p {
+  text-align: justify;
+  width: 95%;
+  margin-left: 2.5%;
+  color: white;
+  font-weight: 500;
+  padding-top: 2%;
+  padding-bottom: 3%;
 }
 /* ====== RODAPÉ ======= */
 /* ====== MEDIA SCREENS ====== */
-@media screen and (min-width: 550px){
-	.principal{
-		margin-bottom: 150%;
-	}
+@media (min-width: 550px) {
+  .principal {
+    margin-bottom: 150%;
+  }
 }
-@media screen and (min-width: 600px){
-	.collapsible-header p{
-		width: 73%;
-	}
-	#p-titulo-seguranca{
-		margin-left: 6%;
-	}
-	#p-titulo-informatica{
-		margin-left: 6%;
-	}
-	#card-right li p{
-		font-size: 1em;
-		margin-top: 0.5%;
-	}
-	#card-right{
-		height: 500px;
-	}
-	#card-left{
-		height: 500px;
-	}
-	#card-esq{
-		width: 80%;
-		float: left;
-	}
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -204.5%;
-	}
-	.tit-p p{
-		width: 92%;
-	}
+@media (min-width: 600px) {
+  .collapsible-header p {
+    width: 73%;
+  }
+  #p-titulo-seguranca {
+    margin-left: 6%;
+  }
+  #p-titulo-informatica {
+    margin-left: 6%;
+  }
+  #card-right li p {
+    font-size: 1em;
+    margin-top: 0.5%;
+  }
+  #card-right {
+    height: 500px;
+  }
+  #card-left {
+    height: 500px;
+  }
+  #card-esq {
+    width: 80%;
+    float: left;
+  }
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -204.5%;
+  }
+  .tit-p p {
+    width: 92%;
+  }
 }
-@media screen and (min-width: 620px){
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -198.5%;
-	}
-	.principal{
-		margin-bottom: 120%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
-	#card-esq{
-		margin-left: 5%;
-	}
-	.tit-p p{
-		width: 90%;
-		margin-left: 5%;
-	}
+@media (min-width: 620px) {
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -198.5%;
+  }
+  .principal {
+    margin-bottom: 120%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
+  #card-esq {
+    margin-left: 5%;
+  }
+  .tit-p p {
+    width: 90%;
+    margin-left: 5%;
+  }
 }
-@media screen and (min-width: 630px){
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -192.5%;
-	}
-	.principal{
-		margin-bottom: 100%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 630px) {
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -192.5%;
+  }
+  .principal {
+    margin-bottom: 100%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 640px){
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -192.5%;
-	}
-	.principal{
-		margin-bottom: 100%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 640px) {
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -192.5%;
+  }
+  .principal {
+    margin-bottom: 100%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 650px){
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -192.5%;
-	}
-	.principal{
-		margin-bottom: 100%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 650px) {
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -192.5%;
+  }
+  .principal {
+    margin-bottom: 100%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 660px){
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -192.5%;
-	}
-	.principal{
-		margin-bottom: 100%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 660px) {
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -192.5%;
+  }
+  .principal {
+    margin-bottom: 100%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 670px){
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -184.5%;
-	}
-	.principal{
-		margin-bottom: 100%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 670px) {
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -184.5%;
+  }
+  .principal {
+    margin-bottom: 100%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 680px){
-	#card-dir{
-		margin-top: -180.5%;
-	}
-	.principal{
-		margin-bottom: 100%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 680px) {
+  #card-dir {
+    margin-top: -180.5%;
+  }
+  .principal {
+    margin-bottom: 100%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 690px){
-	#card-dir{
-		margin-top: -177.5%;
-	}
-	.principal{
-		margin-bottom: 100%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 690px) {
+  #card-dir {
+    margin-top: -177.5%;
+  }
+  .principal {
+    margin-bottom: 100%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 700px){
-	#card-dir{
-		width: 80%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -172.5%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 700px) {
+  #card-dir {
+    width: 80%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -172.5%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 710px){
-	.titulo{
-		margin-left: 10%;
-	}
+@media (min-width: 710px) {
+  .titulo {
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 768px){
-	.principal{
-		height: 300px;
-	}
-	#card-esq{
-		width: 70%;
-		float: left;
-		margin-left: 15%;
-	}
-	#card-dir{
-		width: 70%;
-		float: left;
-		margin-left: 90%;
-		margin-top: -131.3%;
-	}
-	#card-right{
-		height: 400px;
-	}
-	#card-right li p{
-		margin-top: -3%;
-		margin-bottom: 3%;
-	}
-	#card-left{
-		height: 400px;
-	}
-	.tit-p p{
-		width: 80%;
-		margin-left: 10%;
-	}
-	.tit-p-2 p{
-		width: 80%;
-		margin-left: 10%;
-	}
+@media (min-width: 768px) {
+  .principal {
+    height: 300px;
+  }
+  #card-esq {
+    width: 70%;
+    float: left;
+    margin-left: 15%;
+  }
+  #card-dir {
+    width: 70%;
+    float: left;
+    margin-left: 90%;
+    margin-top: -131.3%;
+  }
+  #card-right {
+    height: 400px;
+  }
+  #card-right li p {
+    margin-top: -3%;
+    margin-bottom: 3%;
+  }
+  #card-left {
+    height: 400px;
+  }
+  .tit-p p {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .tit-p-2 p {
+    width: 80%;
+    margin-left: 10%;
+  }
 }
-@media screen and (min-width: 860px){
-	#card-dir{
-		margin-top: -119%;
-	}
+@media (min-width: 860px) {
+  #card-dir {
+    margin-top: -119%;
+  }
 }
-@media screen and (min-width: 910px){
-	#card-dir{
-		margin-top: -113%;
-	}
+@media (min-width: 910px) {
+  #card-dir {
+    margin-top: -113%;
+  }
 }
-@media screen and (min-width: 950px){
-	#card-dir{
-		margin-top: -107%;
-	}
-	.principal{
-		margin-bottom: 80%;
-	}
-	.cursos-p{
-		width: 90%; 
-	}
+@media (min-width: 950px) {
+  #card-dir {
+    margin-top: -107%;
+  }
+  .principal {
+    margin-bottom: 80%;
+  }
+  .cursos-p {
+    width: 90%;
+  }
 }
-@media screen and (min-width: 960px){
-	.principal{
-		height: 150px;
-	}
-	#card-dir{
-		margin-top: -112%;
-		width: 60%;
-		float: left;
-	}
-	#card-esq{
-		width: 60%;
-		float: left;
-		margin-left: 25%;
-	}
-	.card-image img{
-		height: 200px;
-	}
-	.tit-p p{
-		width: 70%;
-		margin-left: 15%;
-	}
-	.tit-p-2 p{
-		width: 70%;
-		margin-left: 15%;
-	}
-	.cursos-p{
-		width: 90%; 
-	}
+@media (min-width: 960px) {
+  .principal {
+    height: 150px;
+  }
+  #card-dir {
+    margin-top: -112%;
+    width: 60%;
+    float: left;
+  }
+  #card-esq {
+    width: 60%;
+    float: left;
+    margin-left: 25%;
+  }
+  .card-image img {
+    height: 200px;
+  }
+  .tit-p p {
+    width: 70%;
+    margin-left: 15%;
+  }
+  .tit-p-2 p {
+    width: 70%;
+    margin-left: 15%;
+  }
+  .cursos-p {
+    width: 90%;
+  }
 }
-@media screen and (min-width: 970px){
-	.principal{
-		height: 200px;
-		margin-bottom: 80%;
-	}
-	.cursos-p{
-		width: 90%; 
-	}
+@media (min-width: 970px) {
+  .principal {
+    height: 200px;
+    margin-bottom: 80%;
+  }
+  .cursos-p {
+    width: 90%;
+  }
 }
-@media screen and (min-width: 980px){
-	.principal{
-		height: 250px;
-		margin-bottom: 80%;
-	}
-	.cursos-p{
-		width: 90%; 
-	}
+@media (min-width: 980px) {
+  .principal {
+    height: 250px;
+    margin-bottom: 80%;
+  }
+  .cursos-p {
+    width: 90%;
+  }
 }
-@media screen and (min-width: 1050px){
-	#card-dir{
-		margin-top: -89%;
-	}
-	.titulo{
-		margin-left: 10%;
-	}
-	.cursos-p{
-		width: 90%; 
-	}
+@media (min-width: 1050px) {
+  #card-dir {
+    margin-top: -89%;
+  }
+  .titulo {
+    margin-left: 10%;
+  }
+  .cursos-p {
+    width: 90%;
+  }
 }
-@media screen and (min-width: 1280px){
-	.principal{
-		height: 100px;
-		margin-bottom: 70%;
-	}
-	.cursos{
-		margin-left: 1%;
-	}
-	#card-dir{
-		margin-top: -80.5%;
-	}
-	.introd-cursos h4{
-		margin-left: -5%;
-		font-size: 3em;
-	}
-	.introd-cursos p{
-		margin-left: 0%;
-		width: 99%;
-		font-size: 1em;
-	}
-	.titulo{
-		margin-left: -1%;
-	}
-	.collapsible{
-		width: 99%;
-	}
-	.collapsible-header{
-		width: 75%;
-		margin-left: 16%;
-	}
-	.collapsible-body{
-		width: 80%;
-		margin-left: 16%;
-	}
-	.collapsible-body h5{
-		margin-left: -3%;
-		margin-top: 1.5%;
-	}
-	.cursos-p{
-		margin-left: -3%;
-		width: 99%;
-	} 
-	.p-titulo{
-		width: 90% !important;
-		font-size: 1.4em;
-	}	
-	.info{
-		margin-top: -3%;
-	}
-	.seguranca{
-		margin-top: 20%;
-		margin-left: 20%;
-	}
-	#card-left ul li{
-		margin-top: -5%;
-		padding-top: 12%;
-	}
-	#card-left ul li:first-child{
-		padding-top: 10%; 
-	}
-	#card-left{
-		padding-top: -4%;
-	}
-	#card-left li p{
-		font-size: 1.2em;
-	}
-	#card-right{
-		margin-top: -1%;
-		height:  405px;
-	}
-	#doc-1{
-		margin-top: -10%;
-		padding-bottom:  3%;
-	}
-	#card-right span{
-		margin-top: 2%;
-	}
-	#card-right li p{
-		font-size: 1.2em;
-		margin-top: -3%;
-	}
-	#card-right li p:last-child{
-		margin-top: -4%;
-	}
+@media (min-width: 1280px) {
+  .principal {
+    height: 100px;
+    margin-bottom: 70%;
+  }
+  .cursos {
+    margin-left: 1%;
+  }
+  #card-dir {
+    margin-top: -80.5%;
+  }
+  .introd-cursos h4 {
+    margin-left: -5%;
+    font-size: 3em;
+  }
+  .introd-cursos p {
+    margin-left: 0%;
+    width: 99%;
+    font-size: 1em;
+  }
+  .titulo {
+    margin-left: -1%;
+  }
+  .collapsible {
+    width: 99%;
+  }
+  .collapsible-header {
+    width: 75%;
+    margin-left: 16%;
+  }
+  .collapsible-body {
+    width: 80%;
+    margin-left: 16%;
+  }
+  .collapsible-body h5 {
+    margin-left: -3%;
+    margin-top: 1.5%;
+  }
+  .cursos-p {
+    margin-left: -3%;
+    width: 99%;
+  }
+  .p-titulo {
+    width: 90% !important;
+    font-size: 1.4em;
+  }
+  .info {
+    margin-top: -3%;
+  }
+  .seguranca {
+    margin-top: 20%;
+    margin-left: 20%;
+  }
+  #card-left ul li {
+    margin-top: -5%;
+    padding-top: 12%;
+  }
+  #card-left ul li:first-child {
+    padding-top: 10%;
+  }
+  #card-left {
+    padding-top: -4%;
+  }
+  #card-left li p {
+    font-size: 1.2em;
+  }
+  #card-right {
+    margin-top: -1%;
+    height: 405px;
+  }
+  #doc-1 {
+    margin-top: -10%;
+    padding-bottom: 3%;
+  }
+  #card-right span {
+    margin-top: 2%;
+  }
+  #card-right li p {
+    font-size: 1.2em;
+    margin-top: -3%;
+  }
+  #card-right li p:last-child {
+    margin-top: -4%;
+  }
 }

@@ -3,6 +3,8 @@
 
 <head>
   <?php include '../common/headContent.php' ?>
+  <link rel="stylesheet" href="/assets/css/gestao/styles.css">
+  <title>EEEPJAA - Gestão da escola</title>
 </head>
 
 <body>

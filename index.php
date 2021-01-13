@@ -3,6 +3,9 @@
 
 <head>
   <?php include 'common/headContent.php' ?>
+  <link rel="stylesheet" href="/assets/css/home/slider.css">
+  <link rel="stylesheet" href="/assets/css/home/course.css">
+  <link rel="stylesheet" href="/assets/css/home/mission.css">
   <title> Página Inicial</title>
 </head>
 
