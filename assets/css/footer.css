@@ -1,0 +1,27 @@
+@media (min-width: 320px) {
+  .col h5{
+    font-size: 22px;
+  }
+  .col p.grey-text{
+    font-size: 18px;
+  }
+  .footer-copyright{
+    text-align: center;
+  }
+}
+@media (min-width: 768px) {
+  .footer-copyright .container{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size: 18px;
+  }
+}
+
+#mapa{
+  height: 90%;
+}
+
+#modal{
+  height: 100%;
+}

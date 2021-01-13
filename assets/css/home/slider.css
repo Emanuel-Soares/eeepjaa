@@ -1,6 +1,6 @@
 .slider {
   position: relative !important;
-  height: 400px !important;
+  /* height: 400px !important; */
   width: 70vw;
   margin: 0 auto;
 }

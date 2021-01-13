@@ -6,8 +6,9 @@ $(document).ready(() => {
 
   $("#carousel-prev-button").click(() => $(".carousel").carousel("prev"));
   $("#carousel-next-button").click(() => $(".carousel").carousel("next"));
+ 
+  $('.modal').modal();
 
-  setInterval(() => {
-    $(".carousel").carousel("next");
-  }, 10000);
-});
+  
+})
+        
