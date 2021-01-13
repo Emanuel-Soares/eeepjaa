@@ -111,8 +111,9 @@
                 </p>
             </section>
             <!-- Back to Top -->
-            <a id="button"></a>
+            <a id="button"><i class="fas fa-arrow-up"></i></a>
         </div>
     <?php include '../common/footer.php' ?>
+    <script src="./button.js"></script>
 </body>
 </html>
