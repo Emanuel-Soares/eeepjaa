@@ -2,7 +2,7 @@
 
 ## Sumário
 
-Fazer sumário com linkagens para títulos
+Fazer sumário com linkagens para títulos.
 
 ## Descrição do projeto
 
