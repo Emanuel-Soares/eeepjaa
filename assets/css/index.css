@@ -23,3 +23,7 @@
   .footer-copyright{
     background-color: #004237 !important ;
   }
+
+  .text-normal {
+    font-weight: 400 !important;
+  }

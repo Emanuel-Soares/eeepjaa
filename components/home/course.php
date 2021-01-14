@@ -1,5 +1,5 @@
-<div class="row teal darken-4 courses">
-  <div class="container center">
+<div class="row teal darken-4 courses center">
+  <!-- <div class="container center"> -->
     <h2 class="atma white-text courses-heading">
       Cursos
     </h2>
@@ -9,7 +9,7 @@
           <img src="/assets/img/home/informatica.png" alt="Informática" />
         </div>
         <div class="card-content">
-          <span class="card-title activator grey-text text-darken-4">Informática<i class="material-icons right">more_vert</i></span>
+          <span class="card-title activator grey-text text-darken-4 text-normal">Informática<i class="material-icons right">more_vert</i></span>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Informática<i class="material-icons right">close</i></span>
@@ -28,7 +28,7 @@
           <img src="/assets/img/home/enfermagem.png" alt="Enfermagem" class="image-responsive">
         </div>
         <div class="card-content">
-          <span class="card-title activator grey-text text-darken-4">Enfermagem<i class="material-icons right">more_vert</i></span>
+          <span class="card-title activator grey-text text-darken-4 text-normal">Enfermagem<i class="material-icons right">more_vert</i></span>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Enfermagem<i class="material-icons right">close</i></span>
@@ -45,7 +45,7 @@
           <img src="/assets/img/home/seguranca.png" alt="Segurança do Trabalho">
         </div>
         <div class="card-content">
-          <span class="card-title activator grey-text text-darken-4">Segurança do Trabalho<i class="material-icons right">more_vert</i></span>
+          <span class="card-title activator grey-text text-darken-4 text-normal">Segurança do Trabalho<i class="material-icons right">more_vert</i></span>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Segurança do Trabalho<i class="material-icons right">close</i></span>
@@ -56,5 +56,5 @@
         </div>
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </div>

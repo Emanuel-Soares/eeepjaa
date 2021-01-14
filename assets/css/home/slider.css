@@ -2,7 +2,7 @@
   position: relative !important;
   /* height: 400px !important; */
   width: 70vw;
-  margin: 0 auto;
+  margin: 25px auto 0 auto;
 }
 
 @media (max-width: 768px) {
