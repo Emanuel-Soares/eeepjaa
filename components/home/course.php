@@ -1,5 +1,5 @@
-<div class="row teal darken-4 courses center">
-  <!-- <div class="container center"> -->
+<div class="row teal darken-4 courses">
+  <div class="container center">
     <h2 class="atma white-text courses-heading">
       Cursos
     </h2>
@@ -56,5 +56,5 @@
         </div>
       </div>
     </div>
-  <!-- </div> -->
+  </div>
 </div>

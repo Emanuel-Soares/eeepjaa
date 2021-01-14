@@ -53,7 +53,7 @@
   </div>
   <div class="footer-copyright">
     <div class="container">
-      <span class="grey-text text-lighten-4">Todos os direitos reservados a EEEP Joaquim Antônio Albano, 2021 ©</span><br>
+      <span class="grey-text text-lighten-4">Todos os direitos reservados a © EEEP Joaquim Antônio Albano, 2021</span><br>
       <span class="grey-text text-lighten-4" href="mailto:primeiroinformaticaeeep40@gmail.com">Feito pelo 3° Informática - 2018</span>
     </div>
   </div>
