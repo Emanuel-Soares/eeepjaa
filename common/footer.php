@@ -10,7 +10,7 @@
     <div class="col s4 center">
       <h5 class="white-text">Orientadores</h5>
       <p class="white-text">Carlos Henrique</p>
-      <p class="white-text">Sidio Loiola - Davidson Alves</p>
+      <p class="white-text">Davidson Alves - Sidio Loiola</p>
     </div>
     <div class="col s4">
       <iframe style="position: absolute; right: 0; width: 30%; height: 178px; margin-top: -20px;border: 0;" src="https:/www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15925.115504220736!2d-38.5099877!3d-3.7493274!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7eb2e63b55439b21!2sEEEP%20Professor%20Joaquim%20Ant%C3%B4nio%20Albano!5e0!3m2!1spt-BR!2sbr!4v1610156891468!5m2!1spt-BR!2sbr " frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -53,8 +53,8 @@
   </div>
   <div class="footer-copyright">
     <div class="container">
-      <span class="grey-text text-lighten-4">© EEEP Joaquim Antônio Albano, 2021</span><br>
-      <span class="grey-text text-lighten-4" href="mailto:primeiroinformaticaeeep40@gmail.com">Feito pelo 3° Informática</span>
+      <span class="grey-text text-lighten-4">Todos os direitos reservados a EEEP Joaquim Antônio Albano, 2021 ©</span><br>
+      <span class="grey-text text-lighten-4" href="mailto:primeiroinformaticaeeep40@gmail.com">Feito pelo 3° Informática - 2018</span>
     </div>
   </div>
 </footer>
