@@ -7,6 +7,7 @@
   align-items: center;
   justify-content: center;
   padding: 15% 0;
+  box-sizing: border-box;
 }
 
 .mission-heading {
@@ -19,21 +20,21 @@
   text-align: center;
 }
 
-@media(max-width: 768px) {
+@media (max-width: 768px) {
   .content-mission {
     width: 90% !important;
     font-size: 1.3em;
   }
 }
 
-@media(max-width: 950px) {
+@media (max-width: 950px) {
   .content-mission {
     max-width: 70%;
     font-size: 1.5em;
   }
 }
 
-@media(max-width: 600px) {
+@media (max-width: 600px) {
   .content-mission {
     font-size: 1em;
   }
