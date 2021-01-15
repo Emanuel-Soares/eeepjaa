@@ -15,6 +15,7 @@
     <?php include 'components/home/slider.php' ?>
     <?php include 'components/home/course.php' ?>
     <?php include 'components/home/mission.php' ?>
+    <?php include 'components/home/news.php' ?>
   </main>
   <?php include 'common/footer.php' ?>
 </body>

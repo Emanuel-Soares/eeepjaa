@@ -4,8 +4,8 @@
     <div class="col s4">
       <h5 class="white-text bold">EEEP Joaquim Antônio Albano</h5>
       <p class="grey-text text-lighten-4">R. Júlio Siqueira, 390 - Dionísio Torres, Fortaleza - CE, 60120-320</p>
-      <a href="https:/www.facebook.com/eeepjalbano" target="_blank"><img src="/assets/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
-      <a href="https:/www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="/assets/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
+      <a rel="noreferrer noopener" href="https:/www.facebook.com/eeepjalbano" target="_blank"><img src="/assets/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
+      <a rel="noreferrer noopener" href="https:/www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="/assets/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
     </div>
     <div class="col s4 center">
       <h5 class="white-text">Orientadores</h5>
@@ -23,8 +23,8 @@
       <div class="col l12 s12 m12 center">
         <h5 class="white-text bold">EEEP Joaquim Antônio Albano</h5>
         <p class="grey-text text-lighten-4">R. Júlio Siqueira, 390 - Dionísio Torres, Fortaleza - CE, 60120-320</p>
-        <a href="https:/www.facebook.com/eeepjalbano" target="_blank"><img src="/assets/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
-        <a href="https:/www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="/assets/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
+        <a rel="noreferrer noopener" href="https:/www.facebook.com/eeepjalbano" target="_blank"><img src="/assets/icons/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
+        <a rel="noreferrer noopener" href="https:/www.instagram.com/eeepjoaquimalbano/" target="_blank"><img src="/assets/icons/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram"></a>
       </div>
     </div>
     <div class="row">

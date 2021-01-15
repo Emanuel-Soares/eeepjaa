@@ -12,3 +12,45 @@
   padding: 0;
   line-height: 2em;
 }
+
+.align-card-content {
+  height: 100% !important;
+  vertical-align: center;
+  text-align: left;
+}
+
+.content-spacing {
+  padding: 20px 5px !important;
+}
+
+.align-span {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap !important;
+}
+
+.content-spacing span {
+  padding: 0 10px;
+}
+
+/* .button-align {
+  text-align: right;
+} */
+
+.activator {
+  cursor: pointer;
+}
+
+.align-close {
+  margin: 0px;
+  top: 0;
+  padding: 0;
+  position: absolute;
+  right: 10px;
+}
+
+.content-reveal {
+  min-height: 85%;
+}
