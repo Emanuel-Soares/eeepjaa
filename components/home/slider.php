@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row" style="margin: 0 auto">
   <div class="col l5 s12" id="image-fixed">
     <img src="/assets/img/home/eeep.png" alt="EEEPJAA">
   </div>

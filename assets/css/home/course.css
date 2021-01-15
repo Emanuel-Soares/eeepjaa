@@ -3,7 +3,7 @@
 }
 
 .courses {
-  margin: 20px 0 0 0;
+  margin: 0;
 }
 
 .courses-heading {
@@ -34,10 +34,6 @@
 .content-spacing span {
   padding: 0 10px;
 }
-
-/* .button-align {
-  text-align: right;
-} */
 
 .activator {
   cursor: pointer;
