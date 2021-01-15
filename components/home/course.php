@@ -8,17 +8,11 @@
         <div class="card-image">
           <img src="/assets/img/home/informatica.png" alt="Informática" />
         </div>
-        <div class="card-content row">
-          <div class="col s6">
-            <span class="card-title activator grey-text text-darken-4 text-normal">
-              Informática
-            </span>
-          </div>
-          <div class="col s6">
-            <span class="card-title activator grey-text text-darken-4 text-normal">
-              <i class="material-icons right">more_vert</i>
-            </span>
-          </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4 text-normal left-align">
+            Informática
+            <i class="material-icons right">more_vert</i>
+          </span>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Informática<i class="material-icons right">close</i></span>
@@ -36,17 +30,11 @@
         <div class="card-image">
           <img src="/assets/img/home/enfermagem.png" alt="Enfermagem" class="image-responsive">
         </div>
-        <div class="card-content row">
-          <div class="col s6">
-            <span class="card-title activator grey-text text-darken-4 text-normal">
-              Enfermagem
-            </span>
-          </div>
-          <div class="col s6">
-            <span class="card-title activator grey-text text-darken-4 text-normal">
-              <i class="material-icons right">more_vert</i>
-            </span>
-          </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4 text-normal left-align">
+            Enfermagem
+            <i class="material-icons right">more_vert</i>
+          </span>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Enfermagem<i class="material-icons right">close</i></span>
@@ -62,29 +50,15 @@
         <div class="card-image">
           <img src="/assets/img/home/seguranca.png" alt="Segurança do Trabalho">
         </div>
-        <div class="card-content row">
-          <div class="col s6">
-            <span class="card-title activator grey-text text-darken-4 text-normal">
-              Segurança do Trabalho
-            </span>
-          </div>
-          <div class="col s6">
-            <span class="card-title activator grey-text text-darken-4 text-normal">
-              <i class="material-icons right">more_vert</i>
-            </span>
-          </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4 text-normal left-align">
+            Segurança do Trabalho
+            <i class="material-icons right">more_vert</i>
+          </span>
         </div>
         <div class="card-reveal">
-          <div class="row">
-            <div class="col s6">
-              <span class="card-title grey-text text-darken-4">Segurança do Trabalho</span>
-            </div>
-            <div class="col s6">
-              <span class="card-title grey-text text-darken-4">
-                <i class="material-icons right">close</i>
-              </span>
-            </div>
-          </div>
+          <span class="card-title grey-text text-darken-4">Segurança do Trabalho</span>
+          <i class="material-icons right">close</i>
           <p>
             Neste curso você vai estudar ações preventivas para garantia da saúde e segurança de trabalhadores. Vai aprender técnicas de identificação, avaliação e controle de riscos, analisar acidentes e recomendar medidas de prevenção.
           </p>
