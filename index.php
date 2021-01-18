@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="/assets/css/home/slider.css">
   <link rel="stylesheet" href="/assets/css/home/course.css">
   <link rel="stylesheet" href="/assets/css/home/mission.css">
+  <link rel="stylesheet" href="/assets/css/home/numbers.css">
   <title> Página Inicial</title>
 </head>
 
@@ -16,8 +17,10 @@
     <?php include 'components/home/course.php' ?>
     <?php include 'components/home/mission.php' ?>
     <?php include 'components/home/news.php' ?>
+    <?php include 'components/home/numbers.php' ?>
   </main>
   <?php include 'common/footer.php' ?>
+  <script src="/assets/js/home.js"></script>
 </body>
 
 </html>

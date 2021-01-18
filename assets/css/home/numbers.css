@@ -1,0 +1,54 @@
+.number-circle {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: none;
+  border: solid 5px #fff;
+  padding: 30px;
+  box-sizing: border-box;
+  margin: 20px 0;
+}
+
+.number-circle img {
+  position: relative;
+  max-width: 100px;
+}
+
+.numbers-heading {
+  text-shadow: 2px 3px 2px #f57c00;
+}
+
+.number-circle .number {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.number-circle .number-title {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.numbers-container {
+  padding: 0 0 50px 0;
+}
+
+.numbers-limiter {
+  height: 100%;
+  background-color: red;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .numbers-content {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .numbers-limiter {
+    width: 100%;
+  }
+}
