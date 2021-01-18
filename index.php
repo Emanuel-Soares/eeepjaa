@@ -16,6 +16,7 @@
     <?php include 'components/home/course.php' ?>
     <?php include 'components/home/mission.php' ?>
     <?php include 'components/home/news.php' ?>
+    <a href="#" id="return-to-top"><i class="material-icons">arrow_upward</i></a>
   </main>
   <?php include 'common/footer.php' ?>
 </body>

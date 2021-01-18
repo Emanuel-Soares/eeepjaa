@@ -113,7 +113,7 @@
       </p>
     </section>
     <!-- Back to Top -->
-    <a id="button"><i class="material-icons">arrow_upward</i></a>
+    <a href="#" id="return-to-top"><i class="material-icons">arrow_upward</i></a>
   </div>
   <?php include '../common/footer.php' ?>
   <script src="./button.js"></script>
