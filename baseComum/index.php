@@ -281,12 +281,17 @@
     </section>
     <!-- Back to Top -->
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a href="#" id="return-to-top"><i class="material-icons">arrow_upward</i></a>
   </div>
 =======
     <a id="button"><i data-feather="arrow-up" color="#fff" width="30px" height="30px"></i></a>
   </div>                                                                 
 >>>>>>> Corrigido o ícone
+=======
+    <a id="button"><i data-feather="arrow-up" color="#fff" width="30px" height="30px"></i></a>
+  </div>                                                                 
+>>>>>>> 0d9cbd2f5f8a44aeb54359273c59c9eb78a8f7d6
   <?php include '../common/footer.php' ?>
   <script src="./button.js"></script>
   <script>
