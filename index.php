@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="/assets/css/home/course.css">
   <link rel="stylesheet" href="/assets/css/home/mission.css">
   <link rel="stylesheet" href="/assets/css/home/numbers.css">
-  <title> Página Inicial</title>
+  <title>Página Inicial</title>
 </head>
 
 <body>
