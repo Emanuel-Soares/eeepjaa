@@ -1,7 +1,7 @@
 <div class="row teal darken-4 courses center">
   <div class="container center">
     <h2 class="atma white-text courses-heading">
-      Cursos
+      Cursos Técnicos
     </h2>
     <div class="col l4 m6 s12">
       <div class="card align-card-content">
