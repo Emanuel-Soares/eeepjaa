@@ -46,12 +46,6 @@
   font-size: 20px !important;
 }
 
-#imaged-fixed {
-  box-sizing: border-box;
-  padding: 0;
-  height: 100%;
-}
-
 #image-fixed {
   padding: 0;
 }
