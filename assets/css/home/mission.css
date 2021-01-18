@@ -8,6 +8,7 @@
   justify-content: center;
   padding: 15% 0;
   box-sizing: border-box;
+  height: 400px;
 }
 
 .mission-heading {
@@ -15,14 +16,14 @@
 }
 
 .content-mission {
-  font-size: 2em;
+  font-size: 1.6em;
   max-width: 50%;
   text-align: center;
 }
 
 @media (max-width: 768px) {
   .content-mission {
-    width: 90% !important;
+    width: 80% !important;
     font-size: 1.3em;
   }
 }
@@ -34,8 +35,15 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 630px) {
   .content-mission {
     font-size: 1em;
+    width: 90% !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .content-mission {
+    max-width: 50%;
   }
 }
