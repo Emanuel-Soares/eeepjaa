@@ -58,97 +58,97 @@
         ingressar nas principais universidades em nível estadual e nacional.
       </p>
 
-        <table class="striped centered responsive-table">
-            <thead class="white-text green text-accent-4">
-                <tr>
-                <th>Disciplina</th>
-                <th>1º Ano</th>
-                <th>2º Ano</th>
-                <th>3º Ano</th>
-                </tr>
-            </thead>
+      <table class="striped centered responsive-table">
+        <thead class="white-text green text-accent-4">
+          <tr>
+            <th>Disciplina</th>
+            <th>1º Ano</th>
+            <th>2º Ano</th>
+            <th>3º Ano</th>
+          </tr>
+        </thead>
 
-            <tbody>
-              <tr>
-                <td>Língua Portuguesa</td>
-                <td>160 horas</td>
-                <td>120 horas</td>
-                <td>80 horas</td>
-              </tr>
-              <tr>
-                <td>Artes</td>
-                <td>40 horas</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr>
-                <td>Língua Estrangeira: Inglês</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-              </tr>
-              <tr>
-                <td>Língua Estrangeira: Espanhol</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-              </tr>
-              <tr>
-                <td>Educação Física</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-              </tr>
-              <tr>
-                <td>História</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-              </tr>
-              <tr>
-                <td>Geografia</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-              </tr>
-              <tr>
-                <td>Filosofia</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-              </tr>
-              <tr>
-                <td>Sociologia</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-              </tr>
-              <tr>
-                <td>Matemática</td>
-                <td>200 horas</td>
-                <td>140 horas</td>
-                <td>80 horas</td>
-              </tr>
-              <tr>
-                <td>Biologia</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-              </tr>
-              <tr>
-                <td>Física</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-              </tr>
-              <tr>
-                <td>Química</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-                <td>80 horas</td>
-              </tr>
-            </tbody>
-          </table>
+        <tbody>
+          <tr>
+            <td>Língua Portuguesa</td>
+            <td>160 horas</td>
+            <td>120 horas</td>
+            <td>80 horas</td>
+          </tr>
+          <tr>
+            <td>Artes</td>
+            <td>40 horas</td>
+            <td>-</td>
+            <td>-</td>
+          </tr>
+          <tr>
+            <td>Língua Estrangeira: Inglês</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+          </tr>
+          <tr>
+            <td>Língua Estrangeira: Espanhol</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+          </tr>
+          <tr>
+            <td>Educação Física</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+          </tr>
+          <tr>
+            <td>História</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+          </tr>
+          <tr>
+            <td>Geografia</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+          </tr>
+          <tr>
+            <td>Filosofia</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+          </tr>
+          <tr>
+            <td>Sociologia</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+          </tr>
+          <tr>
+            <td>Matemática</td>
+            <td>200 horas</td>
+            <td>140 horas</td>
+            <td>80 horas</td>
+          </tr>
+          <tr>
+            <td>Biologia</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+          </tr>
+          <tr>
+            <td>Física</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+          </tr>
+          <tr>
+            <td>Química</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+            <td>80 horas</td>
+          </tr>
+        </tbody>
+      </table>
 
       <h4 class="green-text text-accent-4">
         2. Base Diversificada
@@ -163,79 +163,79 @@
         Cidadã e Mundo do Trabalho.
       </p>
 
-        <table class="striped centered responsive-table">
-            <thead class="white-text green text-accent-4">
-                <tr>
-                <th>Disciplina</th>
-                <th>1º Ano</th>
-                <th>2º Ano</th>
-                <th>3º Ano</th>
-                </tr>
-            </thead>
+      <table class="striped centered responsive-table">
+        <thead class="white-text green text-accent-4">
+          <tr>
+            <th>Disciplina</th>
+            <th>1º Ano</th>
+            <th>2º Ano</th>
+            <th>3º Ano</th>
+          </tr>
+        </thead>
 
-            <tbody>
-              <tr>
-                <td>Horário de Estudo I</td>
-                <td>60 horas</td>
-                <td>80 horas</td>
-                <td>120 horas</td>
-              </tr>
-              <tr>
-                <td>Horário de Estudo II</td>
-                <td>40 horas</td>
-                <td>60 horas</td>
-                <td>60 horas</td>
-              </tr>
-              <tr>
-                <td>Projeto de Vida</td>
-                <td>120 horas</td>
-                <td>40 horas</td>
-                <td>20 horas</td>
-              </tr>
-              <tr>
-                <td>Oficina de Redação</td>
-                <td>-</td>
-                <td>40 horas</td>
-                <td>20 horas</td>
-              </tr>
-              <tr>
-                <td>Empreendedorismo</td>
-                <td>80 horas</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr>
-                <td>Formação para a Cidadania</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-              </tr>
-              <tr>
-                <td>Projetos Interdisciplinares I</td>
-                <td>60 horas</td>
-                <td>80 horas</td>
-                <td>120 horas</td>
-              </tr>
-              <tr>
-                <td>Projetos Interdisciplinares II</td>
-                <td>40 horas</td>
-                <td>40 horas</td>
-                <td>80 horas</td>
-              </tr>
-              <tr>
-                <td>Mundo do Trabalho</td>
-                <td>60 horas</td>
-                <td>40 horas</td>
-                <td>-</td>
-              </tr>
-              <tr>
-                <td>Preparação e Avaliação da Prática de Estágio</td>
-                <td>-</td>
-                <td>-</td>
-                <td>100 horas</td>
-              </tr>
-            </tbody>
-          </table>
+        <tbody>
+          <tr>
+            <td>Horário de Estudo I</td>
+            <td>60 horas</td>
+            <td>80 horas</td>
+            <td>120 horas</td>
+          </tr>
+          <tr>
+            <td>Horário de Estudo II</td>
+            <td>40 horas</td>
+            <td>60 horas</td>
+            <td>60 horas</td>
+          </tr>
+          <tr>
+            <td>Projeto de Vida</td>
+            <td>120 horas</td>
+            <td>40 horas</td>
+            <td>20 horas</td>
+          </tr>
+          <tr>
+            <td>Oficina de Redação</td>
+            <td>-</td>
+            <td>40 horas</td>
+            <td>20 horas</td>
+          </tr>
+          <tr>
+            <td>Empreendedorismo</td>
+            <td>80 horas</td>
+            <td>-</td>
+            <td>-</td>
+          </tr>
+          <tr>
+            <td>Formação para a Cidadania</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+          </tr>
+          <tr>
+            <td>Projetos Interdisciplinares I</td>
+            <td>60 horas</td>
+            <td>80 horas</td>
+            <td>120 horas</td>
+          </tr>
+          <tr>
+            <td>Projetos Interdisciplinares II</td>
+            <td>40 horas</td>
+            <td>40 horas</td>
+            <td>80 horas</td>
+          </tr>
+          <tr>
+            <td>Mundo do Trabalho</td>
+            <td>60 horas</td>
+            <td>40 horas</td>
+            <td>-</td>
+          </tr>
+          <tr>
+            <td>Preparação e Avaliação da Prática de Estágio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>100 horas</td>
+          </tr>
+        </tbody>
+      </table>
 
       <h3 class=" grey-text text-darken-4" id="comp">
         Competências Gerais Da BNCC
@@ -280,10 +280,9 @@
       </p>
     </section>
     <!-- Back to Top -->
-    <a id="button"><i data-feather="arrow-up" color="#fff" width="30px" height="30px"></i></a>
-  </div>                                                                 
+    <?php include '../common/beginButton.php' ?>
+  </div>
   <?php include '../common/footer.php' ?>
-  <script src="./button.js"></script>
   <script>
     feather.replace()
   </script>

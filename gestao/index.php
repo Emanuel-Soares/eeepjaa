@@ -157,8 +157,8 @@
         </div>
       </div>
     </div>
-    <a href="#" id="return-to-top"><i class="material-icons">arrow_upward</i></a>
   </main>
+  <?php include '../common/beginButton.php' ?>
   <?php include '../common/footer.php' ?>
 </body>
 

@@ -18,8 +18,8 @@
     <?php include 'components/home/mission.php' ?>
     <?php include 'components/home/news.php' ?>
     <?php include 'components/home/numbers.php' ?>
-    <a href="#" id="return-to-top"><i class="material-icons">arrow_upward</i></a>
   </main>
+  <?php include 'common/beginButton.php' ?>
   <?php include 'common/footer.php' ?>
   <script src="/assets/js/home.js"></script>
 </body>
