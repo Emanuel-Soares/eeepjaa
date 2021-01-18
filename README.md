@@ -12,7 +12,7 @@ Fazer sumário com linkagens para títulos.
 
 - [ ] Página home
 - [ ] Página Cursos
-- [ ] Página Base Curricular
+- [X] Página Base Curricular
 - [ ] Página Eventos
 - [ ] Página Sobre
 
