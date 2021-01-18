@@ -17,8 +17,10 @@ nav #logo {
   min-width: 120px;
   align-items: center;
   justify-content: center;
+  outline: none;
 }
 
 .logo {
+  outline: none;
   height: 150%;
 }
