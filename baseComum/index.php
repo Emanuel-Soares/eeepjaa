@@ -280,7 +280,7 @@
       </p>
     </section>
     <!-- Back to Top -->
-    <?php include '../common/beginButton.php' ?>
+    <?php include '../common/homeButton.php' ?>
   </div>
   <?php include '../common/footer.php' ?>
   <script>

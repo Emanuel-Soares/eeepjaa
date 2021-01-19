@@ -19,9 +19,8 @@
     <?php include 'components/home/news.php' ?>
     <?php include 'components/home/numbers.php' ?>
   </main>
-  <?php include 'common/beginButton.php' ?>
+  <?php include 'common/homeButton.php' ?>
   <?php include 'common/footer.php' ?>
-  <script src="/assets/js/home.js"></script>
 </body>
 
 </html>
