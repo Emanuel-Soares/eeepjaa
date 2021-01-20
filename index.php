@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="/assets/css/home/course.css">
   <link rel="stylesheet" href="/assets/css/home/mission.css">
   <link rel="stylesheet" href="/assets/css/home/numbers.css">
+  <link rel="stylesheet" href="/assets/css/home/faq.css">
   <title>Página Inicial</title>
 </head>
 
@@ -18,6 +19,7 @@
     <?php include 'components/home/mission.php' ?>
     <?php include 'components/home/news.php' ?>
     <?php include 'components/home/numbers.php' ?>
+    <?php include 'components/home/faq.php' ?>
   </main>
   <?php include 'common/beginButton.php' ?>
   <?php include 'common/footer.php' ?>
