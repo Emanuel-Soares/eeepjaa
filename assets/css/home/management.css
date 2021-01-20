@@ -1,0 +1,10 @@
+/* imagem tem que ser quadrada */
+.management .circle {
+width: 100px !important;
+height: 100px !important;
+position: relative;
+}
+
+.management .collection-item{
+  padding: 5% !important;
+}

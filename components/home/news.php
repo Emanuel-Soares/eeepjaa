@@ -1,5 +1,5 @@
-<div class="row teal darken-4" id="news">
-  <div class="container center news">
+<div class="row teal darken-4 news" id="news">
+  <div class="container center">
     <h2 class="atma white-text courses-heading news">
       Notícias
     </h2>

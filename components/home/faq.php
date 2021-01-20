@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row grey lighten-4 faq">
   <div class="container">
     <h2 class="atma faq-heading teal-text text-darken-4 center">
       Perguntas Frequentes

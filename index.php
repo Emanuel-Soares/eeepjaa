@@ -7,6 +7,9 @@
   <link rel="stylesheet" href="/assets/css/home/course.css">
   <link rel="stylesheet" href="/assets/css/home/mission.css">
   <link rel="stylesheet" href="/assets/css/home/numbers.css">
+  <link rel="stylesheet" href="/assets/css/home/structureManagement.css">
+  <link rel="stylesheet" href="/assets/css/home/structure.css">
+  <link rel="stylesheet" href="/assets/css/home/management.css">
   <link rel="stylesheet" href="/assets/css/home/news.css">
   <link rel="stylesheet" href="/assets/css/home/faq.css">
   <title>Página Inicial</title>
@@ -19,7 +22,10 @@
     <?php include 'components/home/course.php' ?>
     <?php include 'components/home/mission.php' ?>
     <?php include 'components/home/numbers.php' ?>
-    <?php include 'components/home/structure.php' ?>
+    <div class="row structureManagement grey lighten-4" id="structureManagement">
+      <?php include 'components/home/structure.php' ?>
+      <?php include 'components/home/management.php' ?>
+    </div>
     <?php include 'components/home/news.php' ?>
     <?php include 'components/home/faq.php' ?>
   </main>
