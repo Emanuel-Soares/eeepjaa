@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="container teal-text text-darken-4">
+  <div class="container">
     <h2 class="atma faq-heading teal-text text-darken-4 center">
       Perguntas Frequentes
     </h2>
@@ -8,7 +8,7 @@
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
           <i class="material-icons orange-text dot-size ">fiber_manual_record</i>
-          <h5>
+          <h5 class="teal-text text-darken-4">
             First
           </h5>
         </div>
@@ -17,7 +17,7 @@
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
           <i class="material-icons orange-text dot-size ">fiber_manual_record</i>
-          <h5>
+          <h5 class="teal-text text-darken-4">
             First
           </h5>
         </div>
