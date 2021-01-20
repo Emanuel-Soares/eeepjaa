@@ -1,11 +1,13 @@
-.faq-heading {
-  text-shadow: 2px 3px 2px #f57c00;
+.dot-size {
+    font-size: 25px !important;
 }
 
-.dot-size{
-  font-size: 25px !important;
+.faq-border {
+    border-bottom: 4px solid #004d40;
 }
 
-.faq-border{
-  border-bottom: 4px solid #004d40;
+.faq {
+    margin: 0 !important;
+    padding: 2% !important;
+    padding-bottom: 5% !important;
 }

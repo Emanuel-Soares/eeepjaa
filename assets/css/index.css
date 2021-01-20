@@ -16,6 +16,7 @@ body {
 /* Fonte */
 .atma {
   font-family: "Atma", cursive;
+  text-shadow: 2px 3px 2px #f57c00;
 }
 
 main {

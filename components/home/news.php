@@ -1,117 +1,181 @@
 <div class="row teal darken-4 news" id="news">
-  <div class="container">
-    <h2 class="atma white-text news-heading center">
+  <div class="container center">
+    <h2 class="atma white-text courses-heading news">
       Notícias
     </h2>
-    <div class="col l6 m6 s12">
-      <div class="card align-card-content news-card">
-        <div class="card-image">
-          <img src="/assets/img/home/informatica.png" alt="Informática" />
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
         </div>
-        <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
-          <span class="activator orange-text">Informática</span> <br /> &nbsp;
-          <i class="material-icons right activator">more_vert</i>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
         </div>
         <div class="card-reveal">
-          <div class="content-reveal">
-            <span class="card-title grey-text text-darken-4">Informática</span>
-            <p>
-              O Curso de informática consiste em inserir alunos no mercado de trabalho, através de uma
-              grade que possibilite conhecimentos em informática básica, gestão do tempo,
-              noções de robótica, entre outros.
-              <a href="/cursos#informatica">Saiba mais</a>
-            </p>
-          </div>
-          <div class="card-action">
-            <span class="card-title teal-text text-darken-2 right">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
               Fechar
             </span>
           </div>
-          </p>
         </div>
       </div>
     </div>
-    <div class="col l6 m6 s12">
-      <div class="card align-card-content news-card">
-        <div class="card-image">
-          <img src="/assets/img/home/informatica.png" alt="Informática" />
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
         </div>
-        <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
-          <span class="activator orange-text">Informática</span> <br /> &nbsp;
-          <i class="material-icons right activator">more_vert</i>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
         </div>
         <div class="card-reveal">
-          <div class="content-reveal">
-            <span class="card-title grey-text text-darken-4">Informática</span>
-            <p>
-              O Curso de informática consiste em inserir alunos no mercado de trabalho, através de uma
-              grade que possibilite conhecimentos em informática básica, gestão do tempo,
-              noções de robótica, entre outros.
-              <a href="/cursos#informatica">Saiba mais</a>
-            </p>
-          </div>
-          <div class="card-action">
-            <span class="card-title teal-text text-darken-2 right">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
               Fechar
             </span>
           </div>
-          </p>
         </div>
       </div>
     </div>
-    <div class="col l6 m6 s12">
-      <div class="card align-card-content news-card">
-        <div class="card-image">
-          <img src="/assets/img/home/informatica.png" alt="Informática" />
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
         </div>
-        <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
-          <span class="activator orange-text">Informática</span> <br /> &nbsp;
-          <i class="material-icons right activator">more_vert</i>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
         </div>
         <div class="card-reveal">
-          <div class="content-reveal">
-            <span class="card-title grey-text text-darken-4">Informática</span>
-            <p>
-              O Curso de informática consiste em inserir alunos no mercado de trabalho, através de uma
-              grade que possibilite conhecimentos em informática básica, gestão do tempo,
-              noções de robótica, entre outros.
-              <a href="/cursos#informatica">Saiba mais</a>
-            </p>
-          </div>
-          <div class="card-action">
-            <span class="card-title teal-text text-darken-2 right">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
               Fechar
             </span>
           </div>
-          </p>
         </div>
       </div>
     </div>
-    <div class="col l6 m6 s12">
-      <div class="card align-card-content news-card">
-        <div class="card-image">
-          <img src="/assets/img/home/informatica.png" alt="Informática" />
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
         </div>
-        <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
-          <span class="activator orange-text">Informática</span> <br /> &nbsp;
-          <i class="material-icons right activator">more_vert</i>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
         </div>
         <div class="card-reveal">
-          <div class="content-reveal">
-            <span class="card-title grey-text text-darken-4">Informática</span>
-            <p>
-              O Curso de informática consiste em inserir alunos no mercado de trabalho, através de uma
-              grade que possibilite conhecimentos em informática básica, gestão do tempo,
-              noções de robótica, entre outros.
-              <a href="/cursos#informatica">Saiba mais</a>
-            </p>
-          </div>
-          <div class="card-action">
-            <span class="card-title teal-text text-darken-2 right">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
               Fechar
             </span>
           </div>
-          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
+        </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
+        </div>
+        <div class="card-reveal">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
+              Fechar
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
+        </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
+        </div>
+        <div class="card-reveal">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
+              Fechar
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
+        </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
+        </div>
+        <div class="card-reveal">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
+              Fechar
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col s6 m4 l3">
+      <div class="card news-card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="assets/img/news/enem.png">
+        </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">
+            ENEM
+            <i class="material-icons right position-fixed">more_vert</i>
+          </span>
+        </div>
+        <div class="card-reveal">
+          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p><a href="#">Saiba mais!</a></p>
+          <div class="card-action center">
+            <span class="card-title grey-text text-darken-2 news-close">
+              Fechar
+            </span>
+          </div>
         </div>
       </div>
     </div>

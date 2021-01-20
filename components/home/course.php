@@ -6,7 +6,7 @@
     <div class="col l4 m6 s12">
       <div class="card align-card-content">
         <div class="card-image">
-          <img src="/assets/img/home/informatica.png" alt="Informática" />
+          <img src="/assets/img/home/informatica.webp" alt="Informática" />
         </div>
         <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
           <span class="activator">Informática</span> <br /> &nbsp;
@@ -34,7 +34,7 @@
     <div class="col l4 m6 s12">
       <div class="card align-card-content">
         <div class="card-image">
-          <img src="/assets/img/home/enfermagem.png" alt="Enfermagem" class="image-responsive">
+          <img src="/assets/img/home/enfermagem.webp" alt="Enfermagem" class="image-responsive">
         </div>
         <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
           <span class="activator">Enfermagem</span> <br /> &nbsp;
@@ -61,7 +61,7 @@
     <div class="col l4 m8 s12 push-m2">
       <div class="card align-card-content">
         <div class="card-image">
-          <img src="/assets/img/home/seguranca.png" alt="Segurança do Trabalho">
+          <img src="/assets/img/home/seguranca.webp" alt="Segurança do Trabalho">
         </div>
         <div class="card-content content-spacing card-title activator grey-text text-darken-4 text-normal left-align align-span">
           <span class="activator">Segurança do Trabalho</span> <br /> &nbsp;

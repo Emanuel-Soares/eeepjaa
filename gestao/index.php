@@ -648,7 +648,7 @@
         </div>
     </div>
   </main>
-  <?php include '../common/beginButton.php' ?>
+  <?php include '../common/homeButton.php' ?>
   <?php include '../common/footer.php' ?>
 </body>
 
