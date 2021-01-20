@@ -234,7 +234,7 @@
       <p>As inscrições, geralmente, são realizadas em janeiro de cada ano, porém as datas podem sofrer mudanças. Portanto, para acompanhar a data das inscrições, siga-nos nas redes sociais para mais informações.</p>
     </div>
   </section>
-  <?php include '../common/beginButton.php' ?>
+  <?php include '../common/homeButton.php' ?>
   <!-- ===== RODAPÉ =======-->
   <?php include '../common/footer.php' ?>
 </body>

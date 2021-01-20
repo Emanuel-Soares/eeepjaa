@@ -1,17 +1,24 @@
-.slider img {
-  object-fit: cover;
-  height: 100%;
+.slider {
+  margin: 0 auto;
+  width: 70%;
 }
 
-@media (orientation: portrait) {
+.slider img {
+  margin: auto;
+  object-fit: cover;
+  height: 100%;
+  max-width: 100%;
+}
+
+/* @media (orientation: portrait) {
   .slider img {
     max-width: 100%;
   }
-}
+} */
 
-@media (orientation: landscape) {
-  .slider img {
-    max-height: 100%;
+@media (max-width: 910px) {
+  .slider {
+    width: 100%;
   }
 }
 
@@ -44,17 +51,4 @@
 
 .titulo {
   font-size: 20px !important;
-}
-
-#image-fixed {
-  padding: 0;
-}
-
-#image-fixed img {
-  height: 100%;
-  object-fit: fill;
-  object-position: center;
-  max-width: 100%;
-  margin: 0 auto;
-  display: block;
 }

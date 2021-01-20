@@ -103,7 +103,7 @@ video {
   font-size: 0;
   width: 96px;
   height: 96px;
-  background: url(../img/enfermagem.png) center center/96px no-repeat;
+  background: url(../img/enfermagem.webp) center center/96px no-repeat;
   margin-left: 10%;
   margin-top: 7%;
 }
@@ -112,7 +112,7 @@ video {
   font-size: 0;
   width: 96px;
   height: 96px;
-  background: url(../img/informatica.png) center center/96px no-repeat;
+  background: url(../img/informatica.webp) center center/96px no-repeat;
   margin-left: 7%;
   margin-top: 7%;
 }
@@ -121,7 +121,7 @@ video {
   font-size: 0;
   width: 70px;
   height: 70px;
-  background: url(../img/seguranca.png) center center/70px no-repeat;
+  background: url(../img/seguranca.webp) center center/70px no-repeat;
   margin-left: 15%;
   margin-top: 10%;
 }
