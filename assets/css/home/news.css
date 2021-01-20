@@ -11,5 +11,11 @@
 
 .news-card{
   width: 200px !important;
+  left: 5% !important;
+  right: 5% !important;
+}
+
+.news-close{
+  font-size: 1em !important;
 }
 

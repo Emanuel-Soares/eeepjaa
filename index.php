@@ -3,11 +3,11 @@
 
 <head>
   <?php include 'common/headContent.php' ?>
-  <link rel="stylesheet" href="/assets/css/home/news.css">
   <link rel="stylesheet" href="/assets/css/home/slider.css">
   <link rel="stylesheet" href="/assets/css/home/course.css">
   <link rel="stylesheet" href="/assets/css/home/mission.css">
   <link rel="stylesheet" href="/assets/css/home/numbers.css">
+  <link rel="stylesheet" href="/assets/css/home/news.css">
   <link rel="stylesheet" href="/assets/css/home/faq.css">
   <title>Página Inicial</title>
 </head>
