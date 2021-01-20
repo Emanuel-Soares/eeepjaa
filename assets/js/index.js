@@ -8,6 +8,7 @@ $(document).ready(() => {
   $("#carousel-next-button").click(() => $(".carousel").carousel("next"));
 
   $(".modal").modal();
+  $('.collapsible').collapsible();
 
   setInterval(() => {
     $(".carousel").carousel("next");
