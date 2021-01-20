@@ -7,7 +7,7 @@
     <ul class="collapsible popout" data-collapsible="accordion">
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size ">fiber_manual_record</i>
+          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             First
           </h5>
@@ -16,7 +16,7 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size ">fiber_manual_record</i>
+          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             First
           </h5>

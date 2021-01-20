@@ -3,6 +3,7 @@
 
 <head>
   <?php include 'common/headContent.php' ?>
+  <link rel="stylesheet" href="/assets/css/home/news.css">
   <link rel="stylesheet" href="/assets/css/home/slider.css">
   <link rel="stylesheet" href="/assets/css/home/course.css">
   <link rel="stylesheet" href="/assets/css/home/mission.css">
@@ -17,8 +18,9 @@
     <?php include 'components/home/slider.php' ?>
     <?php include 'components/home/course.php' ?>
     <?php include 'components/home/mission.php' ?>
-    <?php include 'components/home/news.php' ?>
     <?php include 'components/home/numbers.php' ?>
+    <?php include 'components/home/structure.php' ?>
+    <?php include 'components/home/news.php' ?>
     <?php include 'components/home/faq.php' ?>
   </main>
   <?php include 'common/beginButton.php' ?>
