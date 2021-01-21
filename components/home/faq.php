@@ -1,4 +1,4 @@
-<div class="row grey lighten-4 faq">
+<div class="row faq" style="background: url(/assets/img/home/fundtext.webp)">
   <div class="container">
     <h2 class="atma teal-text text-darken-4 center">
       Perguntas Frequentes
