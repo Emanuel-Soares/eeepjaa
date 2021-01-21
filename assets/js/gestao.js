@@ -23,3 +23,10 @@ $("#return-to-top").click(() => {
     500
   );
 });
+$(window).scroll(function () {
+  if ($(window).scrollTop() > 900) {
+    $("#return-to-top").fadeIn(300);
+  } else {
+    $("#return-to-top").fadeOut(300);
+  }
+});
