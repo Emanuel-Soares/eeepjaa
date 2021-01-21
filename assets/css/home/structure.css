@@ -1,18 +1,19 @@
-.structure{
+.structure {
   border-right: 3px solid rgb(82, 76, 76);
 }
 
-.structure-list{
+.structure-list {
   font-size: 20px;
   margin-left: 10% !important;
 }
 
-.structure-list li{
+.structure-list li {
   padding-bottom: 20px;
   list-style: inside !important;
   font-size: 1.2em;
   font-weight: 500;
 }
-.structure-list li::marker{
+
+.structure-list li::marker {
   font-size: 1.2em;
 }

@@ -3,6 +3,7 @@
 
 <head>
   <?php include 'common/headContent.php' ?>
+  <link rel="stylesheet" href="/assets/css/home/main.css">
   <link rel="stylesheet" href="/assets/css/home/slider.css">
   <link rel="stylesheet" href="/assets/css/home/course.css">
   <link rel="stylesheet" href="/assets/css/home/mission.css">
@@ -17,18 +18,20 @@
 
 <body>
   <?php include 'common/header.php' ?>
-  <main>
-    <?php include 'components/home/slider.php' ?>
-    <?php include 'components/home/course.php' ?>
-    <?php include 'components/home/mission.php' ?>
-    <?php include 'components/home/numbers.php' ?>
-    <div class="row structureManagement grey lighten-4" id="structureManagement">
-      <?php include 'components/home/structure.php' ?>
-      <?php include 'components/home/management.php' ?>
-    </div>
-    <?php include 'components/home/news.php' ?>
-    <?php include 'components/home/faq.php' ?>
-  </main>
+  <div id="app">
+    <main>
+      <?php include 'components/home/slider.php' ?>
+      <?php include 'components/home/course.php' ?>
+      <?php include 'components/home/mission.php' ?>
+      <?php include 'components/home/numbers.php' ?>
+      <div class="row structureManagement background-text" id="structureManagement">
+        <?php include 'components/home/structure.php' ?>
+        <?php include 'components/home/management.php' ?>
+      </div>
+      <?php include 'components/home/news.php' ?>
+      <?php include 'components/home/faq.php' ?>
+    </main>
+  </div>
   <?php include 'common/homeButton.php' ?>
   <?php include 'common/footer.php' ?>
 </body>
