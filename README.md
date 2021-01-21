@@ -29,4 +29,4 @@ Fazer sumário com linkagens para títulos.
 
 ## Acesso
 
-- Acesse o site em [beta.eeepjaa.site](http://beta.eeepjaa.site)
+- Acesse o site em [eeepjaa.site](http://eeepjaa.site)
