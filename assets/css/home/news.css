@@ -1,6 +1,5 @@
 .news-heading {
   margin: 0 0 -20px 0;
-  text-shadow: 2px 3px 2px #f57c00;
   padding: 0;
   line-height: 2em;
 }
@@ -8,18 +7,34 @@
 .news h3 {
   font-size: 2em;
 }
-
+.card{
+  margin-left: 10% !important;
+  /* margin-right: 10% !important; */
+}
 .news-card{
-  width: 200px !important;
+  width: 300px !important;
   left: 5% !important;
   right: 5% !important;
 }
-
+.card-content .card-title{
+  font-size: 1.2em;
+  font-weight: 500;
+}
 .news-close{
   font-size: 1em !important;
 }
-
+.card-reveal p{
+  font-size: 1.1em;
+  text-align: justify;
+}
+.card-reveal .card-action span{
+  font-size: 1.2em !important;
+}
 .news{
   margin: 0 !important;
   padding: 2% !important;
+}
+.list-news li{
+  list-style-type: disc !important;
+  text-align: justify;
 }
