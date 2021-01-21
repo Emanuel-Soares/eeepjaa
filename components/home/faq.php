@@ -1,9 +1,8 @@
-<div class="row faq" style="background: url(/assets/img/home/fundtext.webp)">
+<div class="row faq background-text">
   <div class="container">
     <h2 class="atma teal-text text-darken-4 center">
       Perguntas Frequentes
     </h2>
-
     <ul class="collapsible popout" data-collapsible="accordion">
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
@@ -24,6 +23,5 @@
         <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
       </li>
     </ul>
-
   </div>
 </div>
