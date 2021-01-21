@@ -24,7 +24,7 @@
       <?php include 'components/home/course.php' ?>
       <?php include 'components/home/mission.php' ?>
       <?php include 'components/home/numbers.php' ?>
-      <div class="row structureManagement" id="structureManagement" style="background: url(/assets/img/home/fundtext.webp)">
+      <div class="row structureManagement background-text" id="structureManagement">
         <?php include 'components/home/structure.php' ?>
         <?php include 'components/home/management.php' ?>
       </div>
