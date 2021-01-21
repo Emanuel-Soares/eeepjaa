@@ -6,7 +6,7 @@
     <div class="col s3 m4 l3 pull-1">
       <div class="card news-card">
         <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/news/enem.png">
+          <img class="activator card-size" src="assets/img/news/enem.png">
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">
@@ -15,7 +15,7 @@
           </span>
         </div>
         <div class="card-reveal">
-          <p>Aqui estão os alunos aprovados no processo seletivo da EEEP Joaquim Antônio Albano</p>
+          <p class="text-news">Aqui estão os alunos aprovados no processo seletivo da EEEP Joaquim Antônio Albano</p>
           <p><a href="https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2021/01/final_joaquim_antonio_albano.pdf" target="_blank">Veja Aqui</a></p>
           <div class="card-action center">
             <span class="card-title grey-text text-darken-2 news-close">
@@ -28,7 +28,7 @@
     <div class="col s3 m4 l3">
       <div class="card news-card">
         <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="/assets/img/news/matricula.webp" style="height: 15em;">
+          <img class="activator card-size" src="/assets/img/news/matricula.webp">
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">
@@ -37,8 +37,8 @@
           </span>
         </div>
         <div class="card-reveal">
-          <p>
-            Horário: 8h às 12h/13h às 16h
+          <p class="text-news">
+            Horário: 8h às 12h/13h às 16h <br>
             Documentação Necessaria
           <ul class="list-news">
             <li>01 PASTA ESCOLAR;</li>
@@ -64,7 +64,7 @@
     <div class="col s3 m4 l3">
       <div class="card news-card">
         <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/news/ENEM.webp" style="height: 15em;">
+          <img class="activator card-size" src="assets/img/news/ENEM.webp">
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">
@@ -73,8 +73,32 @@
           </span>
         </div>
         <div class="card-reveal">
-          <p>Here is some more information about this product that is only revealed once clicked on.</p>
-          <p><a href="#">Saiba mais!</a></p>
+          <p class="text-news">
+            O que precisa levar?
+          <ul class="list-news">
+            <li>Documento de indentificação com Foto(RG)</li>
+            <li>Caneta esferográfica de cor preta em material transparente</li>
+          </ul>
+          </p>
+          <p class="text-news">
+            O que não levar?
+          <ul class="list-news">
+            <li>Dispositivos Eletrônicos</li>
+            <li>Oculos escuros</li>
+            <li>Lapis, lapiseiras e similares</li>
+            <li>Livros e anotações</li>
+            <li>Fones de ouvido e similares</li>
+            <li>Bonés, gorros, tocas e chapéu</li>
+          </ul>
+          </p>
+          <p class="text-news">
+            Portões
+          <ul class="list-news">
+            <li>Abertura 11h15min</li>
+            <li>Fechamento 13h</li>
+          </ul>
+          </p>
+          <p><a href="https://enem.inep.gov.br/" target="_blank">Veja o site da INEP</a></p>
           <div class="card-action center">
             <span class="card-title grey-text text-darken-2 news-close">
               Fechar
@@ -86,16 +110,16 @@
     <div class="col s3 m4 l3">
       <div class="card news-card">
         <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/news/enem.png">
+          <img class="activator card-size" src="assets/img/news/enem.png">
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">
-            ENEM
+            Feira de Ciencias/Eventos
             <i class="material-icons right position-fixed">more_vert</i>
           </span>
         </div>
         <div class="card-reveal">
-          <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          <p class="text-news">Here is some more information about this product that is only revealed once clicked on.</p>
           <p><a href="#">Saiba mais!</a></p>
           <div class="card-action center">
             <span class="card-title grey-text text-darken-2 news-close">
