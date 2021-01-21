@@ -1,14 +1,14 @@
-<div class="row teal darken-4 news" id="news">
-  <div class="container center">
+<div class="row teal darken-4 news center" id="news">
+  <div class="container">
     <h2 class="atma white-text courses-heading news">
       Notícias
     </h2>
-    <div class="col s3 m4 l3 pull-1">
-      <div class="card news-card">
+    <div class="col s3">
+      <div class="card news-card align-card-content-news">
         <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator card-size" src="assets/img/news/enem.png">
+          <img class="activator card-size" src="assets/img/news/aprovado.webp">
         </div>
-        <div class="card-content">
+        <div class="card-content-news news-spacing">
           <span class="card-title activator grey-text text-darken-4">
             Lista de Aprovados 2021
             <i class="material-icons right position-fixed">more_vert</i>
@@ -25,12 +25,12 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m4 l3">
-      <div class="card news-card">
+    <div class="col s3">
+      <div class="card news-card align-card-content-news">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator card-size" src="/assets/img/news/matricula.webp">
         </div>
-        <div class="card-content">
+        <div class="card-content-news news-spacing">
           <span class="card-title activator grey-text text-darken-4">
             Matrículas
             <i class="material-icons right position-fixed">more_vert</i>
@@ -61,12 +61,12 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m4 l3">
-      <div class="card news-card">
+    <div class="col s3">
+      <div class="card news-card align-card-content-news">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator card-size" src="assets/img/news/ENEM.webp">
         </div>
-        <div class="card-content">
+        <div class="card-content-news news-spacing">
           <span class="card-title activator grey-text text-darken-4">
             ENEM dias 17 e 24
             <i class="material-icons right position-fixed">more_vert</i>
@@ -107,14 +107,14 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m4 l3">
-      <div class="card news-card">
+    <div class="col s3">
+      <div class="card news-card align-card-content-news">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator card-size" src="assets/img/news/enem.png">
         </div>
-        <div class="card-content">
+        <div class="card-content-news news-spacing">
           <span class="card-title activator grey-text text-darken-4">
-            Feira de Ciencias/Eventos
+            Feira do Arduino 2020
             <i class="material-icons right position-fixed">more_vert</i>
           </span>
         </div>

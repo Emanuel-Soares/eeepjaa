@@ -1,21 +1,16 @@
-.news-heading {
-  margin: 0 0 -20px 0;
-  padding: 0;
-  line-height: 2em;
+.news-spacing{
+  padding: 20px 5px !important;
 }
-
-.news h3 {
-  font-size: 2em;
+.news-spacing span{
+  padding: 0 10px !important;
 }
 .card-size{
   height: 15em;
 }
 .news-card{
-  width: 280px !important;
-  left: 5% !important;
-  right: 5% !important;
+  width: 100% !important;
 }
-.card-content .card-title{
+.card-content-news .card-title{
   font-size: 1.1em;
   font-weight: 500;
 }
@@ -31,9 +26,25 @@
 }
 .news{
   margin: 0 !important;
-  padding: 2% !important;
 }
 .list-news li{
   list-style-type: disc !important;
   text-align: justify;
 }
+#news{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.align-card-content-news {
+  height: 100% !important;
+  vertical-align: center;
+  text-align: left;
+}
+
+/* @media (min-width: 1440px) {
+.card-content-news .card-title{
+  font-size: 1em;
+  font-weight: 400;
+}
+} */
