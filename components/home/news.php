@@ -1,128 +1,109 @@
-<div class="row teal darken-4 news center" id="news">
-  <div class="container">
-    <h2 class="atma white-text courses-heading news">
-      Notícias
+<div class="row teal darken-4 courses center" id="news">
+  <div class="content center">
+    <h2 class="atma white-text courses-heading">
+      Notícia
     </h2>
-    <div class="col s3">
-      <div class="card news-card align-card-content-news">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator card-size" src="assets/img/news/aprovado.webp">
+    <div class="col l3 m6 s12">
+      <div class="card align-card-content">
+        <div class="card-image">
+          <img class="responsive-img" src="/assets/img/news/aprovado.webp" alt="Aprovado" />
         </div>
-        <div class="card-content-news news-spacing">
-          <span class="card-title activator grey-text text-darken-4">
-            Lista de Aprovados 2021
-            <i class="material-icons right position-fixed">more_vert</i>
-          </span>
+        <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
+          <span class="activator">Lista de Aprovados 2021</span>
+          <i class="material-icons right activator">more_vert</i>
         </div>
         <div class="card-reveal">
-          <p class="text-news">Aqui estão os alunos aprovados no processo seletivo da EEEP Joaquim Antônio Albano</p>
-          <p><a href="https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2021/01/final_joaquim_antonio_albano.pdf" target="_blank">Veja Aqui</a></p>
-          <div class="card-action center">
-            <span class="card-title grey-text text-darken-2 news-close">
+          <div class="content-reveal">
+            <span class="card-title grey-text text-darken-4">Lista de Aprovados 2021</span>
+            <p>
+              Aqui estão os alunos aprovados no processo seletivo da EEEP Joaquim Antônio Albano
+              <a rel="noreferrer noopener" href="https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2021/01/final_joaquim_antonio_albano.pdf" target="_blank">Veja aqui</a>
+            </p>
+          </div>
+          <div class="card-action">
+            <span class="card-title teal-text text-darken-2 right">
+              Fechar
+            </span>
+          </div>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col l3 m6 s12">
+      <div class="card align-card-content">
+        <div class="card-image">
+          <img class="responsive-img" src="/assets/img/news/matricula.webp" alt="Enfermagem">
+        </div>
+        <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
+          <span class="activator">Matrículas</span>
+          <i class="material-icons right activator">more_vert</i>
+        </div>
+        <div class="card-reveal">
+          <div class="content-reveal">
+            <span class="card-title grey-text text-darken-4">
+              Matrículas
+            </span>
+            <p>
+              O curso prepara o aluno para atuar de forma ética e humanizada no cuidado dos pacientes e promoção da saúde individual e coletiva. Nos anos iniciais do curso, são aplicadas disciplinas teóricas, como Anatomia, Fisiologia e Imunologia.
+              <a href="/cursos#enfermagem">Saiba mais</a>
+            </p>
+          </div>
+          <div class="card-action">
+            <span class="card-title teal-text text-darken-2 right">
               Fechar
             </span>
           </div>
         </div>
       </div>
     </div>
-    <div class="col s3">
-      <div class="card news-card align-card-content-news">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator card-size" src="/assets/img/news/matricula.webp">
+    <div class="col l3 m6 s12">
+      <div class="card align-card-content">
+        <div class="card-image">
+          <img class="responsive-img" src="/assets/img/news/ENEM.webp" alt="Segurança do Trabalho">
         </div>
-        <div class="card-content-news news-spacing">
-          <span class="card-title activator grey-text text-darken-4">
-            Matrículas
-            <i class="material-icons right position-fixed">more_vert</i>
-          </span>
+        <div class="card-content content-spacing card-title activator grey-text text-darken-4 text-normal left-align align-span">
+          <span class="activator">ENEM</span>
+          <i class="material-icons right activator">more_vert</i>
         </div>
         <div class="card-reveal">
-          <p class="text-news">
-            Horário: 8h às 12h/13h às 16h <br>
-            Documentação Necessaria
-          <ul class="list-news">
-            <li>01 PASTA ESCOLAR;</li>
-            <li>02 FOTOS 3X4 IGUAIS E RECENTES;</li>
-            <li>XEROX DO REGISTRO DE NASCIMENTO, RG E CPF(DO ALUNO E DOS PAIS)PARA QUEM
-              NÃO ENTREGOU NO ATO DA INSCRIÇÃO;</li>
-            <li> HISTORICO ESCOLAR DO 1º AO 9º ANO OU DECLARAÇÃO DE CONCLUSÃO DO ENSINO
-              FUNDAMENTAL, ASSINADA E CARIMBADA PELO DIRETOR(A) E SECRETÁRIO(A);</li>
-            <li>XEROX DA CARTEIRA DE ESTUDANTE;</li>
-            <li>XEROX DO CARTÃO BOLSA FAMILIA PARA QUEM POSSUI(NIS DO ALUNO)</li>
-            <li>XEROX DO CARTÃO DE VACINA ATUALIZADO.</li>
-          </ul>
-          </p>
-          <p><a href="/assets/img/news/matriculaCompleta.webp" target="_blank">Veja o cartaz completo</a></p>
-          <div class="card-action center">
-            <span class="card-title grey-text text-darken-2 news-close">
+          <div class="content-reveal">
+            <span class="card-title grey-text text-darken-4">
+              ENEM
+            </span>
+            <p>
+              Neste curso você vai estudar ações preventivas para garantia da saúde e segurança de trabalhadores. Vai aprender técnicas de identificação, avaliação e controle de riscos, analisar acidentes e recomendar medidas de prevenção.
+              <a href="/cursos#segurança">Saiba mais</a>
+            </p>
+          </div>
+          <div class="card-action">
+            <span class="card-title teal-text text-darken-2 right">
               Fechar
             </span>
           </div>
         </div>
       </div>
     </div>
-    <div class="col s3">
-      <div class="card news-card align-card-content-news">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator card-size" src="assets/img/news/ENEM.webp">
+    <div class="col l3 m6 s12">
+      <div class="card align-card-content">
+        <div class="card-image">
+          <img class="responsive-img" src="/assets/img/news/enem.png" alt="Segurança do Trabalho">
         </div>
-        <div class="card-content-news news-spacing">
-          <span class="card-title activator grey-text text-darken-4">
-            ENEM dias 17 e 24
-            <i class="material-icons right position-fixed">more_vert</i>
-          </span>
+        <div class="card-content content-spacing card-title activator grey-text text-darken-4 text-normal left-align align-span">
+          <span class="activator">Feira do Arduino</span>
+          <i class="material-icons right activator">more_vert</i>
         </div>
         <div class="card-reveal">
-          <p class="text-news">
-            O que precisa levar?
-          <ul class="list-news">
-            <li>Documento de indentificação com Foto(RG)</li>
-            <li>Caneta esferográfica de cor preta em material transparente</li>
-          </ul>
-          </p>
-          <p class="text-news">
-            O que não levar?
-          <ul class="list-news">
-            <li>Dispositivos Eletrônicos</li>
-            <li>Oculos escuros</li>
-            <li>Lapis, lapiseiras e similares</li>
-            <li>Livros e anotações</li>
-            <li>Fones de ouvido e similares</li>
-            <li>Bonés, gorros, tocas e chapéu</li>
-          </ul>
-          </p>
-          <p class="text-news">
-            Portões
-          <ul class="list-news">
-            <li>Abertura 11h15min</li>
-            <li>Fechamento 13h</li>
-          </ul>
-          </p>
-          <p><a href="https://enem.inep.gov.br/" target="_blank">Veja o site da INEP</a></p>
-          <div class="card-action center">
-            <span class="card-title grey-text text-darken-2 news-close">
-              Fechar
+          <div class="content-reveal">
+            <span class="card-title grey-text text-darken-4">
+              Feira do Arduino
             </span>
+            <p>
+              Neste curso você vai estudar ações preventivas para garantia da saúde e segurança de trabalhadores. Vai aprender técnicas de identificação, avaliação e controle de riscos, analisar acidentes e recomendar medidas de prevenção.
+              <a href="/cursos#segurança">Saiba mais</a>
+            </p>
           </div>
-        </div>
-      </div>
-    </div>
-    <div class="col s3">
-      <div class="card news-card align-card-content-news">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator card-size" src="assets/img/news/enem.png">
-        </div>
-        <div class="card-content-news news-spacing">
-          <span class="card-title activator grey-text text-darken-4">
-            Feira do Arduino 2020
-            <i class="material-icons right position-fixed">more_vert</i>
-          </span>
-        </div>
-        <div class="card-reveal">
-          <p class="text-news">Here is some more information about this product that is only revealed once clicked on.</p>
-          <p><a href="#">Saiba mais!</a></p>
-          <div class="card-action center">
-            <span class="card-title grey-text text-darken-2 news-close">
+          <div class="card-action">
+            <span class="card-title teal-text text-darken-2 right">
               Fechar
             </span>
           </div>

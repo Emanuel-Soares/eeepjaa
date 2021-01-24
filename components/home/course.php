@@ -4,7 +4,7 @@
       Cursos Técnicos
     </h2>
     <div class="col l4 m6 s12">
-      <div class="card align-card-content">
+      <div class="card">
         <div class="card-image">
           <img src="/assets/img/home/informatica.webp" alt="Informática" />
         </div>

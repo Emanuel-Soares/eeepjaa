@@ -1,50 +1,28 @@
-.news-spacing{
-  padding: 20px 5px !important;
-}
-.news-spacing span{
-  padding: 0 10px !important;
-}
-.card-size{
-  height: 15em;
-}
-.news-card{
-  width: 100% !important;
-}
-.card-content-news .card-title{
-  font-size: 1.1em;
-  font-weight: 500;
-}
-.news-close{
-  font-size: 1em !important;
-}
-.card-reveal p.text-news{
-  font-size: 1.2em;
-  text-align: justify;
-}
-.card-reveal .card-action span{
-  font-size: 1.2em !important;
-}
-.news{
-  margin: 0 !important;
-}
-.list-news li{
-  list-style-type: disc !important;
-  text-align: justify;
-}
-#news{
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-}
-.align-card-content-news {
-  height: 100% !important;
-  vertical-align: center;
-  text-align: left;
+.card {
+  height: 300px !important;
 }
 
-/* @media (min-width: 1440px) {
-.card-content-news .card-title{
-  font-size: 1em;
-  font-weight: 400;
+.card-image {
+  height: 80% !important;
 }
-} */
+
+.card-image img {
+  object-fit: fill !important;
+  object-position: center !important;
+  height: 100% !important;
+  margin: 0 auto !important;
+  position: relative !important;
+}
+
+.card-content {
+  box-sizing: border-box !important;
+  padding: 10px !important;
+  position: relative !important;
+  bottom: 0 !important;
+  height: 20% !important;
+  left: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  font-size: 1.1em !important;
+}
