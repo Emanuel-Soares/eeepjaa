@@ -38,3 +38,25 @@ footer{
 footer h5{
   margin: 5px 0;
 }
+@media(min-width:320px){
+  .row .col{
+    padding: 0 0 !important;
+  }
+  #align{
+      text-align: center !important;
+  }
+  .footer-copyright .container span{
+    font-size: 15px;
+  }
+}
+@media(min-width:993px){
+  #align{
+   text-align: left !important;
+  }
+  .col h5{
+    margin: 10px 10px 5px;
+  }
+  #align p{
+    margin: 10px 10px;
+  }
+}
