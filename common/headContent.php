@@ -12,9 +12,13 @@
 
 <!-- CDN -->
 <link href="https:/fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="../linkagem/material_icons/style.css" rel="stylesheet">
 <script src="https:/code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<link href="../linkagem/js/jquery.min.js" rel="stylesheet">
 <link rel="stylesheet" href="https:/cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+<link href="../linkagem/css/materialize.min.css" rel="stylesheet">
 <script src="https:/cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<link href="../linkagem/js/materialize.min.js" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
