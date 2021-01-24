@@ -40,7 +40,7 @@ footer h5{
 }
 @media(min-width:320px){
   .row .col{
-    padding: 0 0 !important;
+    padding: 10px 0 !important;
   }
   #align{
       text-align: center !important;
