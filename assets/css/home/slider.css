@@ -2,6 +2,7 @@
   margin: 0 auto;
   width: 70%;
   position: relative;
+  max-height: 400px;
 }
 
 .slider img {
