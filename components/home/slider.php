@@ -13,7 +13,4 @@
   <div class="carousel-item white-text">
     <img src="/assets/img/slider/modelo.png" alt="EEEPJAA">
   </div>
-  <div class="carousel-item white-text">
-    <img src="/assets/img/slider/modelo.png" alt="Sisu 2019">
-  </div>
 </div>
