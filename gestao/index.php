@@ -20,7 +20,7 @@
               <a href="#tecInfo" class="space">Tec. Info</a>
               <a href="#tecEnfe" class="space">Tec. Enfe</a>
               <a href="#tecSeg" class="space">Tec. Seg</a>
-              <a href="#tecBucE" class="space">Tec. Buc</a>
+              <a href="#tecBuc" class="space">Tec. Buc</a>
             </div>
           </div>
         </div>
