@@ -8,7 +8,7 @@
     </button>
   </div>
   <div class="carousel-item white-text">
-    <img src="/assets/img/slider/modelo.png" alt="EEEPJAA">
+    <img src="/assets/img/slider/matriculas.webp" alt="Matriculas Abertas">
   </div>
   <div class="carousel-item white-text">
     <img src="/assets/img/slider/modelo.png" alt="EEEPJAA">
