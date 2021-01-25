@@ -4,6 +4,7 @@
     <div class="nav-wrapper">
       <a href="/" id="logo" class="brand-logo orange-text text-darken-3">
         <img class="logo" src="/assets/icons/logo.webp" alt="Logo" title="Logo">
+        <p class="teal-text text-darken-4 escola">EEEP Joaquim Antônio Albano</p>
       </a>
       <a style="cursor: pointer;" data-activates="mobile-demo" class="button-collapse orange-text"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
@@ -44,7 +45,8 @@
   <ul class="side-nav grey lighten-4" id="mobile-demo">
     <div style="margin: 20px 0 0 80px;">
       <a href="/" id="logo" class="brand-logo orange-text text-darken-3">
-        <img src="/assets/icons/logo.webp" height="90px" style="margin-top: -8px; margin-left: 10px" alt="EEEP JAA" title="EEEP JAA">
+        <img src="/assets/icons/logo.webp" height="90px" style="margin-top: -8px; margin-left: 10px" alt="EEEP JAA" title="EEEP JAA"><br>
+        <p class="teal-text text-darken-4">EEEP Joaquim Antônio Albano</p>
       </a>
     </div>
     <li>
