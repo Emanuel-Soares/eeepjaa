@@ -5,16 +5,8 @@
   <?php include '../common/headContent.php' ?>
   <link rel="stylesheet" href="/assets/css/gestao/styles.css">
   <title>EEEPJAA - Gestão da escola</title>
-  <style>
-    .nameColor{
-      color:black;
-      font-size: 20px;
-    }
-    .space{
-      padding-right:10px ;
-    }
-  </style>
 </head>
+
 <body>
   <?php include '../common/header.php' ?>
   <main>
@@ -25,7 +17,7 @@
             <div class="card-content">
               <a href="#prof" class="nameColor">Professores</a><br>
               <a href="#base" class="space">Base Comum</a>
-              <a href="#tecInfo" class="space">Tec. Info</a> 
+              <a href="#tecInfo" class="space">Tec. Info</a>
               <a href="#tecEnfe" class="space">Tec. Enfe</a>
               <a href="#tecSeg" class="space">Tec. Seg</a>
               <a href="#tecBucE" class="space">Tec. Buc</a>
@@ -33,12 +25,13 @@
           </div>
         </div>
       </div>
+
       <h3 id="core">Núcleo Gestor</h3>
       <div class="row">
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/margareth.jpg">
             </div>
             <hr>
             <div class="card-content">
@@ -56,25 +49,25 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/monique.jpg">
             </div>
             <hr>
             <div class="card-content">
               <span class="card-title activator grey-text text-darken-4">Monique Marambaia<i class="material-icons right">more_vert</i></span>
-              <p class="blue-text">Coordenadora Escolar</p>
+              <p class="blue-text">Coordenadora Financeira</p>
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">Formação A.<i class="material-icons right">close</i></span>
-              <p>Especialista em Pedagogia.</p>
+              <p>Especialista.</p>
               <span class="card-title grey-text text-darken-4">Função na Escola</span>
-              <p>Coordenadora.</p>
+              <p>Coordenadora Financeira.</p>
             </div>
           </div>
         </div>
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/eduardo.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -94,7 +87,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -112,18 +105,74 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/lucilene.jpg">
             </div>
             <hr>
             <div class="card-content">
-              <span class="card-title activator grey-text text-darken-4">Nome<i class="material-icons right">more_vert</i></span>
-              <p class="blue-text">Cargo</p>
+              <span class="card-title activator grey-text text-darken-4">Lucilene Gomes<i class="material-icons right">more_vert</i></span>
+              <p class="blue-text">Coordenadora de Estágio</p>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Formação A.<i class="material-icons right">close</i></span>
+              <p>Gruduada em Letras pela e pós graduada em Educação Emocional e Ecologia humana.</p>
+              <span class="card-title grey-text text-darken-4">Função na Escola</span>
+              <p>Coordenadora de Estágio.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col s6 m4">
+          <div class="card hoverable">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="../assets/img/management/rosa.jpg">
+            </div>
+            <hr>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Rosa Godoi<i class="material-icons right">more_vert</i></span>
+              <p class="blue-text">Secretária Escolar</p>
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">Formação A.<i class="material-icons right">close</i></span>
               <p>.</p>
               <span class="card-title grey-text text-darken-4">Função na Escola</span>
-              <p>.</p>
+              <p>Secretária Escolar.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col s6 m4">
+          <div class="card hoverable">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="../assets/img/management/gilmara.png">
+            </div>
+            <hr>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Gilmara dos Reis<i class="material-icons right">more_vert</i></span>
+              <p class="blue-text">Secretária Escolar</p>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Formação A.<i class="material-icons right">close</i></span>
+              <p>Ensino Médio.</p>
+              <span class="card-title grey-text text-darken-4">Função na Escola</span>
+              <p>Secretária Escolar.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col s6 m4">
+          <div class="card hoverable">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="../assets/img/management/tamara.png">
+            </div>
+            <hr>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Allison Felix<i class="material-icons right">more_vert</i></span>
+              <p class="blue-text">Auxiliar Administravo</p>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Formação A.<i class="material-icons right">close</i></span>
+              <p>Graduada em Educação Física.</p>
+              <span class="card-title grey-text text-darken-4">Função na Escola</span>
+              <p>Auxiliando a coordenação e professores.</p>
             </div>
           </div>
         </div>
@@ -133,7 +182,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -151,7 +200,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -169,7 +218,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -191,7 +240,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -209,7 +258,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/thiago.png">
             </div>
             <hr>
             <div class="card-content">
@@ -227,7 +276,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/rodrigo.png">
             </div>
             <hr>
             <div class="card-content">
@@ -247,7 +296,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -265,7 +314,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -283,7 +332,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/ronaldo.png">
             </div>
             <hr>
             <div class="card-content">
@@ -303,7 +352,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -321,7 +370,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -339,7 +388,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/pedro.png">
             </div>
             <hr>
             <div class="card-content">
@@ -359,7 +408,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/livia.png">
             </div>
             <hr>
             <div class="card-content">
@@ -377,7 +426,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -395,7 +444,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -415,7 +464,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/samarony.png">
             </div>
             <hr>
             <div class="card-content">
@@ -433,7 +482,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -451,7 +500,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -472,7 +521,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -490,7 +539,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -508,7 +557,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/sidio.png">
             </div>
             <hr>
             <div class="card-content">
@@ -517,9 +566,9 @@
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">Formação A.<i class="material-icons right">close</i></span>
-              <p>.</p>
+              <p>Análise e Desenvolvimento de Sistemas WEB.</p>
               <span class="card-title grey-text text-darken-4">Função na Escola</span>
-              <p>.</p>
+              <p>Professor EMI e orientador de estágio supervionado.</p>
             </div>
           </div>
         </div>
@@ -528,7 +577,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -549,7 +598,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -567,7 +616,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -585,7 +634,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/vanessa.png">
             </div>
             <hr>
             <div class="card-content">
@@ -601,12 +650,32 @@
           </div>
         </div>
       </div>
+      <div class="row">
+        <div class="col s6 m4">
+          <div class="card hoverable">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="../assets/img/management/tamara.png">
+            </div>
+            <hr>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Tamara Davylla<i class="material-icons right">more_vert</i></span>
+              <p class="blue-text">Professora da Base Técnica</p>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Formação A.<i class="material-icons right">close</i></span>
+              <p>Graduada em Enfermagem.</p>
+              <span class="card-title grey-text text-darken-4">Função na Escola</span>
+              <p>Professora e Orientadora de Enfermagem.</p>
+            </div>
+          </div>
+        </div>
+      </div>
       <h5 id="tecSeg">Curso Téc. de Seg. do Trabalho</h5>
       <div class="row">
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -624,7 +693,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -645,7 +714,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -663,7 +732,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
@@ -681,7 +750,7 @@
         <div class="col s6 m4">
           <div class="card hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="../assets/img/gestao/imagem_padrao.jpeg">
+              <img class="activator" src="../assets/img/management/imagem_padrao.jpeg">
             </div>
             <hr>
             <div class="card-content">
