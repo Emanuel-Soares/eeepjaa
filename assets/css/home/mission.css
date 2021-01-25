@@ -1,5 +1,5 @@
 .mission {
-  background-image: url(/assets/img/home/quadro.webp);
+  background-image: url(/assets/img/home/whiteboard.webp);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -12,17 +12,20 @@
 }
 .content-mission {
   font-size: 1.6em;
-  max-width: 50%;
+  margin-top: -90px;
+  max-width: 80%;
   text-align: center;
 }
 @media (min-width: 1050px) {
   .content-mission {
+    margin-top: -90px;
     max-width: 60%;
     font-size: 1.5em;
   }
 }
 @media (max-width: 950px) {
   .content-mission {
+    margin-top: -90px;
     max-width: 70%;
     font-size: 1.3em;
   }

@@ -6,9 +6,9 @@
     border-radius: 50%;
     background: none;
     border: solid 5px #fff;
-    padding: 30px;
+    padding: 37px;
     box-sizing: border-box;
-    margin: 20px 0;
+    margin: 20px 20px;
 }
 
 .number-circle img {
@@ -39,9 +39,15 @@
 
 .numbers-limiter {
     height: 100%;
-    background-color: red;
+    /* background-color: red; */
     display: block;
 }
+
+    .numbers-content{
+        padding-left: 12% !important;
+        padding-right: 12% !important;
+        /* background-color: blue !important; */
+    }
 
 @media (max-width: 768px) {
     .numbers-content {
