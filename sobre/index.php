@@ -6,6 +6,7 @@
   <script type="text/javascript">
   	 $(document).ready(function(){
       $('.slider').slider();
+  	 }
   </script>
  
 </head>
@@ -69,36 +70,40 @@
 </div>
 <br>
 <br>
-<div class="row">
+<h3 class=" green-text text-darken-4" style="text-align: center;
+											 font-family: Haettenschweiler;
+											 font-size: 60px">RESULTADOS</h3>
+<br>
+<div class="row" style="margin: 20px">
 
       <div class="col s4">
        <img src="img/dado1.jpeg">
         <p class="grey-text text-lighten-1 flow-text" style="font-size: 20px;">
-	A escola teve média de 520.69 na área de Ciências Humanas, que compreende as disciplinas de Geografia, História, Filosofia e Sociologia. É uma média maior 1.94% do que a média brasileira
+	A escola teve média de 520.69 na área de<br> Ciências Humanas, que compreende as disciplinas de Geografia, História, Filosofia e Sociologia. É uma média maior <b>1.94%</b> do que a média brasileira
       </p>
       </div>
       <div class="col s4">
        <img src="img/dado2.jpeg">
        <p class="grey-text text-lighten-1 flow-text" style="font-size: 20px;">
-    A escola teve média de 513.15 na área de Ciências Humanas, que compreende as disciplinas de Física, Química, e Biologia. É uma média menor 3.92% do que a média brasileira
+    A escola teve média de 513.15 na área de<br> Ciências da Natureza, que compreende as disciplinas de Física, Química, e Biologia. É uma média menor <b>3.92%</b> do que a média brasileira
       </p>
       </div>
       <div class="col s4">
        <img src="img/dado3.jpeg">
         <p class="grey-text text-lighten-1 flow-text" style="font-size: 20px;">
-    A escola teve média de 515.74 na área de Ciências Humanas, que compreende as disciplinas de Português, Artes, Educação Física, Ingês e Espanhol. É uma média menor 1.84% do que a média da cidade de Fortaleza
+    A escola teve média de 515.74 na área de Linguagens e Códigos, que compreende as disciplinas de Português, Artes, Educação Física, Ingês e Espanhol. É uma média menor <b>1.84%</b> do que a média da cidade de Fortaleza
       </p>
       </div>
       <div class="col s4">
        <img src="img/dado4.jpeg">
         <p class="grey-text text-lighten-1 flow-text" style="font-size: 20px;">
-    A escola teve média de 519.35 na área de Ciências Humanas, que compreende as disciplinas de Matemática. É uma média maior 3.11% do que a média brasileira
+    A escola teve média de 519.35 na área de Matemática. É uma média maior <b>3.11%</b> do que a média brasileira
       </p>
       </div>
       <div class="col s4">
        <img src="img/dado5.jpeg">
         <p class="grey-text text-lighten-1 flow-text" style="font-size: 20px;">
-    A escola teve média de 638.97 na área de Ciências Humanas, que compreende as disciplinas de Redação. É uma média menor 7.45% do que a média da cidade de Fortaleza
+    A escola teve média de 638.97 na área Redação. É uma média menor <b>7.45%</b> do que a média da cidade de Fortaleza
       </p>
       </div>
 
