@@ -30,3 +30,7 @@
   opacity: 1;
   visibility: visible;
 }
+
+.table {
+    font-size: 1.4em !important;
+}

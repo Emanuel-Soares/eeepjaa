@@ -28,7 +28,6 @@
         O que é Ensino de Tempo Integral?
       </h3>
 
-      <p class="grey-text text-lighten-1 flow-text">
         O aluno que ingressar em uma escola de tempo integral terá a oportunidade
         de acompanhar o ensino básico das demais instituições enquanto aproveita
         aulas técnicas para buscar se tornar um profissional diferenciado
@@ -57,7 +56,7 @@
         ingressar nas principais universidades em nível estadual e nacional.
       </p>
 
-      <table class="striped centered responsive-table">
+      <table class="striped centered responsive-table table">
         <thead class="white-text green text-accent-4">
           <tr>
             <th>Disciplina</th>
@@ -161,7 +160,7 @@
         debates sobre a realidade profissional que os aguarda.
      </p>
 
-      <table class="striped centered responsive-table">
+      <table class="striped centered responsive-table table">
         <thead class="white-text green text-accent-4">
           <tr>
             <th>Disciplina</th>
