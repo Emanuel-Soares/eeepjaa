@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="/assets/css/home/management.css">
   <link rel="stylesheet" href="/assets/css/home/news.css">
   <link rel="stylesheet" href="/assets/css/home/faq.css">
-  <title>Página Inicial</title>
+  <title>EEEP - Joaquim Albano</title>
 </head>
 
 <body>
