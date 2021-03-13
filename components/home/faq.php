@@ -1,12 +1,11 @@
 <div class="row faq background-text">
-  <div class="container">
+  <div class="faq-content">
     <h2 class="atma teal-text text-darken-4 center">
       Perguntas Frequentes
     </h2>
     <ul class="collapsible popout grey lighten-4" data-collapsible="accordion">
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             O que é Ensino Médio Integrado?
           </h5>
@@ -17,7 +16,6 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             Como funciona a base diversificada?
           </h5>
@@ -29,7 +27,6 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             Como funciona a base técnica?
           </h5>
@@ -41,7 +38,6 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             Como funciona a alimentação na escola?
           </h5>
@@ -52,7 +48,6 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             Quais laboratórios temos?
           </h5>
@@ -63,7 +58,6 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             Quando começa o ensino técnico?
           </h5>
@@ -74,7 +68,6 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             Como funciona o estágio curricular?
           </h5>
@@ -85,7 +78,6 @@
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
-          <i class="material-icons orange-text dot-size">fiber_manual_record</i>
           <h5 class="teal-text text-darken-4">
             Como funcionam as reuniões?
           </h5>
@@ -97,3 +89,26 @@
     </ul>
   </div>
 </div>
+
+<style>
+  .faq-content {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .faq-border {
+    border-bottom: 4px solid #004d40;
+  }
+
+  .faq {
+    margin: 0 !important;
+    padding: 2% !important;
+    padding-bottom: 5% !important;
+  }
+
+  @media (min-width: 910px) {
+    .faq-content {
+      width: 60%;
+    }
+  }
+</style>
