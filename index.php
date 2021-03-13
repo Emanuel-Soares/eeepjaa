@@ -10,7 +10,6 @@
   <link rel="stylesheet" href="/assets/css/home/structureManagement.css">
   <link rel="stylesheet" href="/assets/css/home/structure.css">
   <link rel="stylesheet" href="/assets/css/home/management.css">
-  <link rel="stylesheet" href="/assets/css/home/news.css">
   <link rel="stylesheet" href="/assets/css/home/faq.css">
   <title>EEEP - Joaquim Albano</title>
 </head>
