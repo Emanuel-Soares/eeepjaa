@@ -12,9 +12,9 @@
   <?php include '../common/header.php' ?>
   <div class="container">
     <section>
-      <h3 class=" grey-text text-darken-4">
+      <h5 class=" grey-text text-darken-4">
         O que é Ensino Técnico Integrado?
-      </h3>
+      </h5>
 
       <p class="grey-text text-lighten-1 flow-text">
         Nessa modalidade de ensino, o estudante cursa o Ensino Médio junto com um
@@ -24,10 +24,10 @@
     </section>
 
     <section>
-      <h3 class=" grey-text text-darken-4">
+      <h5 class=" grey-text text-darken-4">
         O que é Ensino de Tempo Integral?
-      </h3>
-
+      </h5>
+      <p class="grey-text text-lighten-1 flow-text">
         O aluno que ingressar em uma escola de tempo integral terá a oportunidade
         de acompanhar o ensino básico das demais instituições enquanto aproveita
         aulas técnicas para buscar se tornar um profissional diferenciado
@@ -35,9 +35,9 @@
       </p>
     </section>
     <section>
-      <h3 class=" grey-text text-darken-4">
+      <h5 class=" grey-text text-darken-4">
         Como funcionam as aulas no JA?
-      </h3>
+      </h5>
 
       <p class="grey-text text-lighten-1 flow-text">
         O JA segue as <a href="#comp" class="amber-text text-accent-4">competências gerais da BNCC (Base Nacional Curricular Comum)</a>, trazendo
@@ -234,9 +234,9 @@
         </tbody>
       </table>
 
-      <h3 class=" grey-text text-darken-4" id="comp">
+      <h5 class=" grey-text text-darken-4" id="comp">
         Competências Gerais Da BNCC
-      </h3>
+      </h5>
 
       <p class="grey-text text-lighten-1 flow-text">
         <span class="grey-text text-darken-3">1.</span> Valorizar e utilizar os conhecimentos historicamente
