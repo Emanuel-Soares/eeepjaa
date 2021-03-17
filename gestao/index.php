@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 
 <head>
-  <?php include '../common/headContent.php' ?>
+  <?php include '../common/headContent.php'?>
   <link rel="stylesheet" href="/assets/css/gestao/styles.css">
   <title>EEEPJAA - Gestão da escola</title>
 </head>
@@ -10,21 +10,6 @@
 <body>
   <?php include '../common/header.php' ?>
   <main>
-    <div class="container">
-      <div class="col s12 m7">
-        <div class="card horizontal">
-          <div class="card-stacked">
-            <div class="card-content">
-              <a href="#prof" class="nameColor">Professores</a><br>
-              <a href="#base" class="space">Base Comum</a>
-              <a href="#tecInfo" class="space">Tec. Info</a>
-              <a href="#tecEnfe" class="space">Tec. Enfe</a>
-              <a href="#tecSeg" class="space">Tec. Seg</a>
-              <a href="#tecBuc" class="space">Tec. Buc</a>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <h3 id="core">Núcleo Gestor</h3>
       <div class="row">

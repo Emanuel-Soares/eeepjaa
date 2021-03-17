@@ -25,7 +25,7 @@
         </li>
         <li>
           <a class="orange-text" href="/gestao">
-            Gestão
+            Quem Somos?
           </a>
         </li>
         <li>
@@ -66,7 +66,7 @@
     </li>
     <li>
       <a class="orange-text text-darken-4 center-align" href="/gestao">
-        Gestão
+        Quem Somos?
       </a>
     </li>
     <li>
