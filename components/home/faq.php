@@ -56,7 +56,7 @@
             A escola possui laboratórios para prática de Segurança do Trabalho, Informática e Enfermagem.
           </span></div>
       </li>
-      <li>
+      <!-- <li>
         <div class="collapsible-header valign-wrapper faq-border">
           <h5 class="teal-text text-darken-4">
             Quando começa o ensino técnico?
@@ -85,7 +85,7 @@
         <div class="collapsible-body"><span>
             Geralmente as reuniões ocorrem no término dos bimestres e os professores e gestores divulgam as médias bimestrais do alunos.
           </span></div>
-      </li>
+      </li> -->
     </ul>
   </div>
 </div>

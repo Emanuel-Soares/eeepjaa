@@ -10,10 +10,10 @@
     </div>
   </div>
   <div class="carousel-item white-text">
-    <img src="/assets/img/slider/matriculas.webp" alt="Matriculas Abertas">
+    <img src="/assets/img/slider/internal_structure.webp" alt="Matriculas Abertas">
   </div>
   <div class="carousel-item white-text">
-    <img src="/assets/img/slider/modelo.png" alt="EEEPJAA">
+    <img src="/assets/img/slider/practical_class.webp" alt="EEEPJAA">
   </div>
 </div>
 

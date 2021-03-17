@@ -11,3 +11,28 @@
 - Enfermagem: O curso de Enfermagem prepara o aluno para atuar de forma ética e humanizada no cuidado dos pacientes e promoção da saúde individual e coletiva. Nos anos iniciais do curso, são aplicadas disciplinas teóricas, como Anatomia, Fisiologia e Imunologia.
 
 - Segurança do trabalho: Neste curso você vai estudar ações preventivas para garantia da saúde e segurança de trabalhadores. Vai aprender técnicas de identificação, avaliação e controle de riscos, analisar acidentes e recomendar medidas de prevenção
+
+
+# Afazeres
+
+## Slide da página inicial:
+
+- [X] Fotos de aulas práticas
+- [X] Estrutura interna da escola
+- [X] Colocar Whats -> Número da escola
+- [ ] Eventos  - aula de campo, interclasse
+- [ ] Aula remotas
+
+## Nossa Escola
+
+- [ ] colocar dados do SISU
+- [ ] públicas e privadas
+
+## Perguntas frequentes
+- [ ] Tempo integral
+- [ ] Horário de escolar - Técnico em base comum
+
+## Retirar:
+- [X] Como funciona as reuniões
+- [X] Quando começa o ensino técnico
+- [X] Como funciona o estágio curricular
