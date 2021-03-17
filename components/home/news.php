@@ -173,8 +173,9 @@
   }
 
   .card {
-    height: 300px !important;
+    height: 350px !important;
     width: 95%;
+    max-width: 350px;
     margin: 0 auto 15% auto;
   }
 

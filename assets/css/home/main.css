@@ -3,6 +3,8 @@ main {
   background-size: contain;
   background-position: center;
   z-index: 20000;
+  max-width: 2720px;
+  margin: 0 auto !important;
 }
 
 .background-text {
