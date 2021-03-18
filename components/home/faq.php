@@ -56,36 +56,16 @@
             A escola possui laboratórios para prática de Segurança do Trabalho, Informática e Enfermagem.
           </span></div>
       </li>
-      <!-- <li>
-        <div class="collapsible-header valign-wrapper faq-border">
-          <h5 class="teal-text text-darken-4">
-            Quando começa o ensino técnico?
-          </h5>
-        </div>
-        <div class="collapsible-body"><span>
-            O ensino técnico inicia-se a partir do 1° semestre do primeiro ano.
-          </span></div>
-      </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
           <h5 class="teal-text text-darken-4">
-            Como funciona o estágio curricular?
+            Como é divido as aulas no tempo integral?
           </h5>
         </div>
         <div class="collapsible-body"><span>
-            Ele ocorre no 2° semestre do 3° ano.
+            O ensino integrado é formado pela mescla de aulas da base comum e das aulas referentes a base técnica onde o período que o aluno permanece na escola é de 4 turnos divididos entre 3 intervalos.
           </span></div>
       </li>
-      <li>
-        <div class="collapsible-header valign-wrapper faq-border">
-          <h5 class="teal-text text-darken-4">
-            Como funcionam as reuniões?
-          </h5>
-        </div>
-        <div class="collapsible-body"><span>
-            Geralmente as reuniões ocorrem no término dos bimestres e os professores e gestores divulgam as médias bimestrais do alunos.
-          </span></div>
-      </li> -->
     </ul>
   </div>
 </div>
