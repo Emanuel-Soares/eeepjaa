@@ -1,6 +1,7 @@
 # Conteúdo da página inicial
 
 ## Missões
+
 - EEEP Joaquim Albano conta com 56 anos de tradição, atendendo aos mais diversos públicos da capital.
   Situada à rua Julio Siqueira, 390, a escola conta com 1000m² de área, com rampas de acessibilidade, quadra poliesportiva, laboratórios de ciências e informática e professores qualificados, comprometidos com o processo de ensino e aprendizagem
 
@@ -12,15 +13,14 @@
 
 - Segurança do trabalho: Neste curso você vai estudar ações preventivas para garantia da saúde e segurança de trabalhadores. Vai aprender técnicas de identificação, avaliação e controle de riscos, analisar acidentes e recomendar medidas de prevenção
 
-
 # Afazeres
 
 ## Slide da página inicial:
 
-- [X] Fotos de aulas práticas
-- [X] Estrutura interna da escola
-- [X] Colocar Whats -> Número da escola
-- [ ] Eventos  - aula de campo, interclasse
+- [x] Fotos de aulas práticas
+- [x] Estrutura interna da escola
+- [x] Colocar Whats -> Número da escola
+- [ ] Eventos - aula de campo, interclasse
 - [ ] Aula remotas
 
 ## Nossa Escola
@@ -29,10 +29,12 @@
 - [ ] públicas e privadas
 
 ## Perguntas frequentes
-- [ ] Tempo integral
-- [ ] Horário de escolar - Técnico em base comum
+
+- [x] Tempo integral
+- [x] Horário de escolar - Técnico em base comum
 
 ## Retirar:
-- [X] Como funciona as reuniões
-- [X] Quando começa o ensino técnico
-- [X] Como funciona o estágio curricular
+
+- [x] Como funciona as reuniões
+- [x] Quando começa o ensino técnico
+- [x] Como funciona o estágio curricular
