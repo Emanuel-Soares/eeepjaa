@@ -2,7 +2,6 @@
 <html>
     <head>
         <title>materialize</title>
-  <?php include '../common/headContent.php' ?>
         <meta charset="utf-8">
         <!--Import Google Icon Font-->
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -64,54 +63,85 @@
         </style>
     </head>
     <body class="indigo lighten-5">
-        <?php include '../common/header.php' ?>
-        
-        
+        <!--cabeçalho-->
+        <header>
+            <!--barra com contato e email da escola-->
+            <div class="teal darken-4 center  white-text ">
+                <a class="white-text" href="tel:08531012072">
+                <sub><i class="tiny material-icons white-text">phone</i></sub>
+                (85) 3101-2072</a> |
+                <a class="white-text" href="mailto:eeepjalbano@gmail.com"><sub><i class="tiny material-icons" style="position: relative;top: 50%;">email</i></sub> eeepjalbano@gmail.com</a>
+            </div>
+            <nav class="white z-depth-1 ">
+            <div class="nav-wrapper">
+                <a href="#" class="brand-logo left orange-text text-darken-4"><img class="sidenav-trigger right" src="img/EEEPJAA.png" alt="EEEP JAA" title="EEEP JAA"></a>
+                <!--icone-->
+                <a href="#" data-target="mobile-demo" class="sidenav-trigger right orange-text"><i class="material-icons"  id="sidenav" class="" >menu</i></a>
+                <!--navbar desktop-->
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li class="active"><a href="#l" class="orange-text text-darken-4">Home</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Cursos</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Base comum</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Gestão</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Eventos</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Sobre</a></li>
+                </ul>
+                <!--navbar mobile-->
+                <ul id="mobile-demo" class="sidenav" class="sidenav">
+                    <li class="active"><a href="#"class="orange-text text-darken-4">Home</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Cursos</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Base comum</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Gestão</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Eventos</a></li>
+                    <li><a href="#" class="orange-text text-darken-4">Sobre</a></li>
+                </ul>
+            </div>
+        </header>
         <!--corpo-->
         <main>
             <div class="section">
                 <div class="row">
                     <div class="col l3 s12 m6 center" >
                         <div class="loren">
-                            <a href="#workshop"><img src="img/workshop.jpg" style="width:100%;border-radius:50%;"></a>
+                            <a href="#workshop"><img src="img/workshop.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                     <div class="col l3 s12 m6 center">
                         <div class="loren">
                             <span></span>
-                            <a href="#simulados"><img src="img/simulados.jpg" style="width:100%;border-radius:50%;"></a>
+                            <a href="#simulados"><img src="img/simulados.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                     <div class="col l3 s12 m6 center ">
                         <div class="loren"><a href="#interclasse">
-                            <img src="img/interclasses1.jpg" style="width:100%;border-radius:50%;"></a>
+                            <img src="img/interclasses1.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                     <div class="col l3 s12 m6 center" >
                         <div class="loren">
-                            <a href="#festas"><img src="img/interclasses2.jpg" style="width:100%;border-radius:50%;"></a>
+                            <a href="#festas"><img src="img/interclasses2.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col l3 s12 m6 center" >
                         <div class="loren">
-                            <a href="#palestrasE"><img src="img/palestras.jpg" style="width:100%;border-radius:50%;"></a>
+                            <a href="#palestrasE"><img src="img/palestras.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                     <div class="col l3 s12 m6 center" >
                         <div class="loren">
-                            <a href="#sectec"><img src="img/sectec.jpg" style="width:100%;border-radius:50%;"></a>
+                            <a href="#sectec"><img src="img/sectec.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                     <div class="col l3 s12 m6 center" >
                         <div class="loren">
-                            <a href="#eventos"><img src="img/eventos.jpg" style="width:100%;border-radius:50%;"></a>
+                            <a href="#eventos"><img src="img/eventos.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                     <div class="col l3 s12 m6 center" >
                         <div class="loren">
-                            <a href="#eventosB"><img src="img/eventosb.jpg" style="width:100%;border-radius:50%;"></a>
+                            <a href="#eventosB"><img src="img/eventosb.jpg" style="width:100%;border-radius:3%;"></a>
                         </div>
                     </div>
                 </div>
@@ -364,7 +394,39 @@
             </div>
         </main>
         <!--  Rodapé -->
-            
+        <footer class="page-footer teal darken-4 ">
+            <div class="container">
+                <div class="row">
+                    <div class="col l6 s4">
+                        <h5 class="white-text">FEEEP Joaquim Antônio Albano</h5>
+                        <p class="grey-text text-lighten-4">Rua Júlio Siqueira,390 - Dionísio Torres.</p>
+                        <a href="https://www.facebook.com/eeepjalbano" target="_blank">
+                        <img src="img/Facebook.svg" height="40px" style="filter:invert(100%)" title="Facebook"></a>
+                        <a href="https://www.instagram.com/eeepjoaquimalbano/" target="_blank">
+                        <img src="img/Instagram.svg" height="40px" style="filter:invert(100%); padding: 0 0 0 5px" title="Instagram">
+                        </a>
+                    </div>
+                    <div class="col l3 s4">
+                        <center>
+                            <h5 class="white-text">Orientadores</h5>
+                            <p class="white-text">Carlos Henrique</p>
+                            <p class="white-text">Sidio Loiola - Davidson Alves</p>
+                        </center>
+                    </div>
+                    <div class="col l3 s4">
+                        <iframe style="position: absolute; width: 25%; height: 180px; margin-top:-20px" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15925.115504220736!2d-38.5099877!3d-3.7493274!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7eb2e63b55439b21!2sEEEP%20Professor%20Joaquim%20Ant%C3%B4nio%20Albano!5e0!3m2!1spt-BR!2sbr!4v1610156891468!5m2!1spt-BR!2sbr" width="400" height="300" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>
+            <div class="footer-copyright">
+                <div class="container">
+                    © EEEP Joaquim Antônio Albano, <span id="current_year"></span>
+                    <a class="grey-text text-lighten-4 right" href="mailto:Franciscorobertotinfo@gmail.com">Feito pelo 3° Informática 2020</a>
+                </div>
+            </div>
+        </footer>
         <!-- jquery -->
         <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <!-- js -->
@@ -373,6 +435,10 @@
         <script type="text/javascript">
             $(document).ready(function(){
               $('.sidenav').sidenav();
+            });
+            
+            $(document).ready(function(){
+            $('.slider').slider();
             });
             M.AutoInit();
             $(document).ready(function(){
@@ -391,6 +457,5 @@
             $('.modal').modal();
             });
         </script>
-        <?php include '../common/footer.php' ?>
     </body>
 </html>

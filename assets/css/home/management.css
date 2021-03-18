@@ -5,51 +5,53 @@
   top: 15%;
 }
 
-.management .collection-item{
+.management .collection-item {
   padding: 5% !important;
   box-shadow: 5px 5px 30px -2px rgba(3, 3, 3, 0.37) !important;
 }
 
-.collection-shadow{
-  box-shadow: inset 0px -2px 70px -25px rgba(0,0,0,0.75) !important;
-
+.collection-shadow {
+  box-shadow: inset 0px -2px 70px -25px rgba(0, 0, 0, 0.75) !important;
 }
 
-.management .collection{
-  overflow-y:scroll;
+.management .collection {
+  overflow-y: scroll;
   height: 500px;
+  width: 98%;
+  max-width: 700px;
+  margin: 0 auto;
   /* border-top: 0px solid black;
   border-bottom: 0px solid black; */
 }
 
-.collection-shadow{
-  box-shadow: inset 0px -2px 70px -25px rgba(0,0,0,0.75) !important;
-
+.collection-shadow {
+  box-shadow: inset 0px -2px 70px -25px rgba(0, 0, 0, 0.75) !important;
 }
-.management .name{
+.management .name {
   font-size: 1.5em;
 }
-.management .job{
+.management .job {
   font-size: 1em;
 }
-.management .row{
+.management .row {
   padding: 2%;
 }
-@media screen and (max-width: 520px) {
-  .management .circle{
+
+@media (max-width: 520px) {
+  .management .circle {
     max-width: 100px !important;
     max-height: 100px !important;
     /* top: 20px !important; */
     /* padding-bottom: 5px; */
     /* align-items: center; */
   }
-  
-  .management .name{
+
+  .management .name {
     font-size: 1.2em;
     font-weight: 500;
   }
 
-  .management .row{
+  .management .row {
     padding: 2.5%;
   }
 }

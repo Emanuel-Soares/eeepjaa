@@ -40,7 +40,7 @@
         </div>
       </div>
     </li>
-    <li class="collection-item avatar grey lighten-4">
+    <!-- <li class="collection-item avatar grey lighten-4">
       <div class="row">
         <div class="col m4 s6">
           <img src="assets/img/management/eduardo.jpeg" alt="Coordenador" class="circle">
@@ -52,7 +52,7 @@
         <div class="col m4 s6">
         </div>
       </div>
-    </li>
+    </li> -->
     <li class="collection-item avatar grey lighten-4">
       <div class="row">
         <div class="col m4 s6">
