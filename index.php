@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="/assets/css/home/structureManagement.css">
   <link rel="stylesheet" href="/assets/css/home/structure.css">
   <link rel="stylesheet" href="/assets/css/home/management.css">
-  <title>EEEPi - Joaquim Albano</title>
+  <title>EEEP - Joaquim Albano</title>
 </head>
 
 <body>
