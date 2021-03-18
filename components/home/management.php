@@ -43,7 +43,7 @@
     <li class="collection-item avatar grey lighten-4">
       <div class="row">
         <div class="col m4 s6">
-          <img src="assets/img/management/eduardo.jpg" alt="Coordenador" class="circle">
+          <img src="assets/img/management/eduardo.jpeg" alt="Coordenador" class="circle">
         </div>
         <div class="col m4 s6">
           <p class="name">João Eduardo</p>
