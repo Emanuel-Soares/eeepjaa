@@ -11,6 +11,11 @@
   <link rel="stylesheet" href="/assets/css/home/structure.css">
   <link rel="stylesheet" href="/assets/css/home/management.css">
   <title>EEEP - Joaquim Albano</title>
+  <style>
+    body {
+      font-size: 1.15em;
+    }
+  </style>
 </head>
 
 <body>

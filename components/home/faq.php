@@ -7,11 +7,13 @@
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
           <h5 class="teal-text text-darken-4">
-            O que é Ensino Médio Integrado?
+            O que é Ensino Médio Integrado Profissionalizante?
           </h5>
         </div>
         <div class="collapsible-body"><span>
-            O modelo integrado possibilita a centenas de alunos a qualificação para ingressar no mercado de trabalho ao mesmo tempo em que são habilitados a concorrer a uma vaga na universidade.
+            O ensino profissionalizante é aquele em que ao mesmo tempo que o aluno realiza o ensino médio e uma formação profissional
+            que destina-o ao mercado de trabalho. Ao final dos 3 anos de conclusão de ensino, o aluno receberá o certificado de conclusão de ensino médio juntamente
+            com uma formação profissionalizante.
           </span></div>
       </li>
       <li>
@@ -43,30 +45,40 @@
           </h5>
         </div>
         <div class="collapsible-body"><span>
-            Uma alimentação bastante diversificada e nutritiva de acordo com nutricionistas.
+            A alimentação segue padrões nutricionais, sendo oferecido café da manhã, almoço e lanche da tarde.
           </span></div>
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
           <h5 class="teal-text text-darken-4">
-            Quais laboratórios temos?
+            Como funciona a base diversificada?
           </h5>
         </div>
         <div class="collapsible-body"><span>
-            A escola possui laboratórios para prática de Segurança do Trabalho, Informática e Enfermagem.
+            Ela é compostas por matérias para a melhoria do rendimento do aluno. Algumas das disciplinas ofertadas são: Mundo do Trabalho, Projeto de vida,
+            Empreendedorismo e outras.
           </span></div>
       </li>
       <li>
         <div class="collapsible-header valign-wrapper faq-border">
           <h5 class="teal-text text-darken-4">
-            Como é divido as aulas no tempo integral?
+            Como são divididas as aulas no tempo integral?
           </h5>
         </div>
         <div class="collapsible-body"><span>
             O ensino integrado é formado pela mescla de aulas da base comum e das aulas referentes a base técnica onde o período que o aluno permanece na escola é de 4 turnos divididos entre 3 intervalos.
           </span></div>
       </li>
-      </li>
+      <!-- <li>
+        <div class="collapsible-header valign-wrapper faq-border">
+          <h5 class="teal-text text-darken-4">
+            Quais laboratórios temos?
+          </h5>
+        </div>
+        <div class="collapsible-body"><span>
+            A escola possui laboratórios para prática dos cursos Segurança do Trabalho, Saúde Bucal, Informática e Enfermagem.
+          </span></div>
+      </li> -->
       <!-- <li>
         <div class="collapsible-header valign-wrapper faq-border">
         <a href="/sobre">

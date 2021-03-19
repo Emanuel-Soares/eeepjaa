@@ -11,9 +11,9 @@
     padding: 0;
     margin: 0;
   }
-  
+
   .text-bold {
-    font-weight: 800; 
+    font-weight: 800;
   }
 
   .mission-test div {
