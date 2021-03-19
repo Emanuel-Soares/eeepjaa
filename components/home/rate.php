@@ -1,0 +1,43 @@
+<style>
+  .heading {
+    font-family: "Atma", cursive;
+  }
+</style>
+
+<div id="rate" class="modal">
+  <div class="modal-content center">
+    <form id="rate-form" method="post">
+      <h2 style="font-size: 1.6em" class="heading">O que achou de nosso site?</h2>
+      <p class="range-field">
+        <input type="range" class="orange" name="rate" min="0" max="10" />
+      </p>
+      <button class="btn teal darken-4 waves-effect waves-light" type="submit">Enviar</button>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-action orange modal-close waves-effect waves-green btn-flat">Fechar</a>
+  </div>
+</div>
+
+<script>
+  const rateForm = document.getElementById('rate-form')
+  const rateModal = $('#rate')
+  rateForm.onsubmit = function(e) {
+    e.preventDefault()
+
+    const formData = new FormData(e.target)
+    const formEntries = Array.from(formData.entries())
+
+    const values = formEntries.reduce((acc, at) => {
+      const [name, value] = at
+      acc[name] = value
+      return acc
+    }, {})
+
+    localStorage.setItem('rate', values.rate)
+
+    rateModal.modal('close')
+
+    console.log(values)
+  }
+</script>
