@@ -1016,7 +1016,7 @@
         </div>
       </div>
       <div class="row bottom-border grey lighten-4 teal-text center-align">
-        <div class="col s12">
+        <div class="col s12 footer-big-card-content">
           E.E.E.P. Joaquim Antônio Albano - Quem Somos?
         </div>
       </div>
@@ -1206,7 +1206,7 @@
 
   </main>
 
-  <?php include '../common/homeButton.php' ?>
+  <?php include '../common/homeButton.php'?>
   <?php include '../common/footer.php' ?>
 </body>
 <script>
