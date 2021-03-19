@@ -1,32 +1,32 @@
 .centralizer {
-  background-color: rgb(253, 253, 253);
-  width: 90%;
-  height: auto;
-  margin: 5% auto 5% auto;
-  border-radius: 15px;
+  background-color: rgb(253, 253, 253) !important;
+  width: 90% !important;
+  height: auto !important;
+  margin: 5% auto 5% auto !important;
+  border-radius: 15px !important;
 }
 
 .big-card-content {
-  width: 90%;
-  margin: 0% auto 5% auto;
+  width: 90% !important;
+  margin: 0% auto 5% auto !important;
 }
 
 .tabs .indicator {
-  position: absolute;
-  bottom: 0;
-  height: 2px;
-  background-color: teal;
-  will-change: left, right;
+  position: absolute !important;
+  bottom: 0 !important;
+  height: 2px !important;
+  background-color: teal !important;
+  will-change: left, right !important;
 }
 
 .bottom-border{
-  border-radius: 0px 0px 15px 15px;
-  height: 60px;
+  border-radius: 0px 0px 15px 15px !important;
+  height: 60px !important;
 }
 .row .col.s12 {
-  width: 100%;
-  margin-left: auto;
-  left: auto;
-  right: auto;
-  margin-top: 20px;
+  width: 100% !important;
+  margin-left: auto !important;
+  left: auto !important;
+  right: auto !important;
+  margin-top: 20px !important;
 }
