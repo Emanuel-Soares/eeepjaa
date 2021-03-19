@@ -61,7 +61,7 @@
   </div>
 
 
-  <div class="col l3 m6 s12 push-m2">
+  <div class="col l3 m6 s12 ">
     <div class="card align-card-content">
       <div class="card-image waves-effect waves-light ">
         <img class="activator" src="/assets/img/home/seguranca.webp" alt="Segurança do Trabalho">
@@ -90,7 +90,7 @@
     </div>
   </div>
 
-  <div class="col l3 m6 s12 push-m2">
+  <div class="col l3 m6 s12 ">
     <div class="card align-card-content">
       <div class="card-image waves-effect waves-light ">
         <img class="activator" src="/assets/img/home/bucal.webp" alt="Saúde bucal">
