@@ -8,10 +8,10 @@
   position: relative;
   background: none;
   border: solid 3px #fff;
-  max-width: 300px;
+  max-width: 500px;
   width: 100%;
-  height: 200px;
-  padding: 30px;
+  height: 250px;
+  padding: 50px;
   box-sizing: border-box;
 }
 
@@ -40,6 +40,7 @@
   align-items: center;
   justify-content: center;
 }
+
 
 .numbers-limiter {
   height: 100%;
