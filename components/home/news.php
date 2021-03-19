@@ -6,7 +6,7 @@
     <div class="col l3 m6 s12 center">
       <div class="card align-card-content">
         <div class="card-image">
-          <img class="responsive-img" src="/assets/img/news/aprovado.webp" alt="Aprovado" />
+          <img class="activator responsive-img" src="/assets/img/news/aprovado.webp" alt="Aprovado" />
         </div>
         <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
           <span class="activator">Aprovados na escola em 2021</span>
@@ -32,7 +32,7 @@
     <div class="col l3 m6 s12">
       <div class="card align-card-content">
         <div class="card-image">
-          <img class="responsive-img" src="/assets/img/news/matricula.webp" alt="Enfermagem">
+          <img class="activator responsive-img" src="/assets/img/news/matricula.webp" alt="Enfermagem">
         </div>
         <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
           <span class="activator">Matrículas</span>
@@ -71,7 +71,7 @@
     <div class="col l3 m6 s12">
       <div class="card align-card-content">
         <div class="card-image">
-          <img class="responsive-img" src="/assets/img/news/ENEM.webp" alt="Segurança do Trabalho">
+          <img class="activator responsive-img" src="/assets/img/news/ENEM.webp" alt="Segurança do Trabalho">
         </div>
         <div class="card-content content-spacing card-title activator grey-text text-darken-4 text-normal left-align align-span">
           <span class="activator">ENEM dias 17 e 24</span>
@@ -120,7 +120,7 @@
     <div class="col l3 m6 s12">
       <div class="card align-card-content">
         <div class="card-image">
-          <img class="responsive-img" src="/assets/img/news/evento.webp" alt="Segurança do Trabalho">
+          <img class="activator responsive-img" src="/assets/img/news/evento.webp" alt="Segurança do Trabalho">
         </div>
         <div class="card-content content-spacing card-title activator grey-text text-darken-4 text-normal left-align align-span">
           <span class="activator">Feira de automação residencial</span>
