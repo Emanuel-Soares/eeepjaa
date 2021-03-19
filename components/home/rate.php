@@ -23,22 +23,39 @@
 </div>
 
 <script>
-  const rateForm = document.getElementById('rate-form')
-  const rateModal = $('#rate')
-  rateForm.onsubmit = function(e) {
-    e.preventDefault()
+  $(document).ready(() => {
+    const rateForm = document.getElementById('rate-form')
+    const rateModal = $('#rate')
+    rateForm.onsubmit = function(e) {
+      e.preventDefault()
 
-    const formData = new FormData(e.target)
-    const formEntries = Array.from(formData.entries())
+      const formData = new FormData(e.target)
+      const formEntries = Array.from(formData.entries())
 
-    const values = formEntries.reduce((acc, at) => {
-      const [name, value] = at
-      acc[name] = value
-      return acc
-    }, {})
+      const values = formEntries.reduce((acc, at) => {
+        const [name, value] = at
+        acc[name] = value
+        return acc
+      }, {})
 
-    localStorage.setItem('rate', values.rate)
+      localStorage.setItem('rate', values.rate)
 
-    rateModal.modal('close')
-  }
+      rateModal.modal('close')
+    }
+
+    let qtd = 0
+    const rate = !!window.localStorage.getItem('rate')
+
+    function openModal(e) {
+      const isReady = window.scrollY >= document.body.clientHeight * 0.85
+      if (isReady && qtd === 0) {
+        ++qtd
+        return $('#rate').modal('open')
+      }
+    }
+
+    if (!rate && qtd === 0) window.addEventListener('scroll', openModal, {
+      passive: true
+    })
+  })
 </script>

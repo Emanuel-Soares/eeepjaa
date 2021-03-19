@@ -37,22 +37,6 @@
   </div>
   <?php include 'common/homeButton.php' ?>
   <?php include 'common/footer.php' ?>
-
-  <script>
-    let qtd = 0
-    $(document).ready(() => {
-      const openModal = e => {
-        if (window.scrollY >= document.body.clientHeight * 0.85 && qtd === 0) {
-          $('#rate').modal('open')
-          qtd++
-        }
-      }
-      if (!window.localStorage.getItem('rate')) {
-        qtd = 0
-        document.body.onscroll = openModal
-      }
-    })
-  </script>
 </body>
 
 </html>
