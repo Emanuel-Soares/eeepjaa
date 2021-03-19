@@ -292,19 +292,18 @@
         </div>
         <!-- ---------------------------------------- -->
         <div id="prof_all" class="col s12">
-
-          <!-- <div class="row grey lighten-4 center-align">
+          <div class="row grey lighten-4 center-align">
             <div class="col s12">
               <ul class="tabs grey lighten-4">
-                <li class="tab col s2 m2"><a href="#prof_all" class="teal-text">Todos</a></li>
-                <li class="tab col s2 m2"><a href="#base" class="teal-text">Base Comum</a></li>
-                <li class="tab col s2 m2"><a href="#enf" class="teal-text">Tec. Enfermagem</a></li>
-                <li class="tab col s2 m2"><a href="#inf" class="teal-text">Tec. Informática</a></li>
-                <li class="tab col s2 m2"><a href="#sbc" class="teal-text">Tec. Saúde Bucal</a></li>
-                <li class="tab col s2 m2"><a href="#sdt" class="teal-text">Tec. Seg. do Trabalho</a></li>
+                <li class="tab col s2 m2 disabled"><a href="#" class="teal-text"></a></li>
+                <li class="tab col s2 m2"><a href="#base" class="active teal-text">Base Comum</a></li>
+                <li class="tab col s2 m2"><a href="#enf" class="teal-text">Enfermagem</a></li>
+                <li class="tab col s2 m2"><a href="#inf" class="teal-text">Informática</a></li>
+                <li class="tab col s2 m2"><a href="#sbc" class="teal-text">Saúde Bucal</a></li>
+                <li class="tab col s2 m2"><a href="#sdt" class="teal-text">Seg. do Trabalho</a></li>
               </ul>
             </div>
-          </div> -->
+          </div>
 
           <div id="base" class="col s12">
             <h4 class="left-align">Base Comum</h4>
