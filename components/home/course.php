@@ -4,7 +4,7 @@
   </h2>
   <div class="col l3 m6 s12">
     <div class="card align-card-content">
-      <div class="card-image">
+      <div class="card-image waves-effect waves-light ">
         <img class="activator" src="/assets/img/home/informatica.webp" alt="Informática" />
       </div>
       <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
@@ -33,7 +33,7 @@
   </div>
   <div class="col l3 m6 s12">
     <div class="card align-card-content">
-      <div class="card-image">
+      <div class="card-image waves-effect waves-light ">
         <img class="activator" src="/assets/img/home/enfermagem.webp" alt="Enfermagem" class="image-responsive">
       </div>
       <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
@@ -63,7 +63,7 @@
 
   <div class="col l3 m8 s12 push-m2">
     <div class="card align-card-content">
-      <div class="card-image">
+      <div class="card-image waves-effect waves-light ">
         <img class="activator" src="/assets/img/home/seguranca.webp" alt="Segurança do Trabalho">
       </div>
       <div class="card-content content-spacing card-title activator grey-text text-darken-4 text-normal left-align align-span">
@@ -92,7 +92,7 @@
 
   <div class="col l3 m8 s12 push-m2">
     <div class="card align-card-content">
-      <div class="card-image">
+      <div class="card-image waves-effect waves-light ">
         <img class="activator" src="/assets/img/home/bucal.webp" alt="Saúde bucal">
       </div>
       <div class="card-content content-spacing card-title activator grey-text text-darken-4 text-normal left-align align-span">
