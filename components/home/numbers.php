@@ -29,7 +29,7 @@
           <div class="number-circle">
             <img src="/assets/icons/aprovados.webp" alt="Aprovados">
             <span class="center white-text number">36</span>
-            <span class="center white-text">Aprovados em universidades</span>
+            <span class="center white-text">Aprovados em universidades em 2019</span>
           </div>
         </div>
       </div>
