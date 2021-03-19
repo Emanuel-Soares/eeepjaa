@@ -11,6 +11,11 @@
   margin: 0% auto 5% auto !important;
 }
 
+.card {
+  margin-top: 3% !important; 
+  margin-left: 3% !important;
+}
+
 .tabs .indicator {
   position: absolute !important;
   bottom: 0 !important;
