@@ -18,7 +18,7 @@
     </form>
   </div>
   <div class="modal-footer">
-    <a href="#!" class="modal-action orange modal-close waves-effect waves-green btn-flat">Fechar</a>
+    <button type="button" class="modal-action orange modal-close waves-effect waves-green btn-flat">Fechar</button>
   </div>
 </div>
 
@@ -40,7 +40,5 @@
     localStorage.setItem('rate', values.rate)
 
     rateModal.modal('close')
-
-    console.log(values)
   }
 </script>
