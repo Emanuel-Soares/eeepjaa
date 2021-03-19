@@ -9,12 +9,12 @@
           <img class="responsive-img" src="/assets/img/news/aprovado.webp" alt="Aprovado" />
         </div>
         <div class="card-content content-spacing card-title grey-text text-darken-4 text-normal left-align align-span">
-          <span class="activator">Lista de Aprovados 2021</span>
+          <span class="activator">Aprovados na escola em 2021</span>
           <i class="material-icons right activator">more_vert</i>
         </div>
         <div class="card-reveal">
           <div class="content-reveal">
-            <span class="card-title grey-text text-darken-4">Lista de Aprovados 2021</span>
+            <span class="card-title grey-text text-darken-4">Aprovados na escola em 2021</span>
             <p class="text-news">
               Aqui estão os alunos aprovados no processo seletivo da EEEP Joaquim Antônio Albano
             </p>
