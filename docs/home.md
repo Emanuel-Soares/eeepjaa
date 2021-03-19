@@ -25,8 +25,8 @@
 
 ## Nossa Escola
 
-- [ ] colocar dados do SISU
-- [ ] públicas e privadas
+- [x] colocar dados do SISU
+- [x] públicas e privadas
 
 ## Perguntas frequentes
 

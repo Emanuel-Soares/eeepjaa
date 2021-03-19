@@ -67,7 +67,8 @@
           </span></div>
       </li>
       </li>
-      <!-- <li>
+      <!-- 
+        <li>
         <div class="collapsible-header valign-wrapper faq-border">
         <a href="/sobre">
           <h5 class="teal-text text-darken-4">
@@ -75,7 +76,8 @@
           </h5>
         </a>
         </div>
-      </li> -->
+      </li> 
+    -->
     </ul>
   </div>
 </div>

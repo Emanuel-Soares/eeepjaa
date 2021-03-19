@@ -21,7 +21,7 @@
     height: 100%;
     margin: 10px auto;
     max-width: 500px;
-    font-size: 1.1em;
+    font-size: zem;
   }
 
   @media(max-width: 768px) {
