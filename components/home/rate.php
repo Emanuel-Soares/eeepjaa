@@ -47,7 +47,7 @@
     const rate = !!window.localStorage.getItem('rate')
 
     function openModal(e) {
-      const isReady = window.scrollY >= document.body.clientHeight * 0.85
+      const isReady = window.scrollY >= document.body.clientHeight * 0.70
       if (isReady && qtd === 0) {
         ++qtd
         return $('#rate').modal('open')
