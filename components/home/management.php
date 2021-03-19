@@ -40,6 +40,20 @@
         </div>
       </div>
     </li>
+    </li>
+    <li class="collection-item avatar grey lighten-4">
+      <div class="row">
+        <div class="col m4 s6">
+          <img src="assets/img/management/eduardo.jpeg" alt="Coordenadora Escolar" class="circle">
+        </div>
+        <div class="col m4 s6">
+          <p class="name">João Eduardo</p>
+          <p class="job">Coordenador Escolar</p>
+        </div>
+        <div class="col m4 s6">
+        </div>
+      </div>
+    </li>
     <!-- <li class="collection-item avatar grey lighten-4">
       <div class="row">
         <div class="col m4 s6">
