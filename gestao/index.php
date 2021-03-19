@@ -12,6 +12,14 @@
   <?php include '../common/header.php' ?>
   <main>
 
+    <div style="margin-left: 10%;">
+      <h3>Quem Somos?</h3>
+      <h4>E.E.E.P. Joaquim Antônio Albano</h4>
+      <p class="red-text"><i class="tiny material-icons">info_outline</i>  Clique nas fotos para abrir as informações.</p>
+    </div>
+
+
+
     <div class="centralizer z-depth-4">
 
       <div class="row grey lighten-4 center-align">
@@ -284,7 +292,21 @@
         </div>
         <!-- ---------------------------------------- -->
         <div id="prof_all" class="col s12">
-          <div id="prof" class="col s12">
+
+          <!-- <div class="row grey lighten-4 center-align">
+            <div class="col s12">
+              <ul class="tabs grey lighten-4">
+                <li class="tab col s2 m2"><a href="#prof_all" class="teal-text">Todos</a></li>
+                <li class="tab col s2 m2"><a href="#base" class="teal-text">Base Comum</a></li>
+                <li class="tab col s2 m2"><a href="#enf" class="teal-text">Tec. Enfermagem</a></li>
+                <li class="tab col s2 m2"><a href="#inf" class="teal-text">Tec. Informática</a></li>
+                <li class="tab col s2 m2"><a href="#sbc" class="teal-text">Tec. Saúde Bucal</a></li>
+                <li class="tab col s2 m2"><a href="#sdt" class="teal-text">Tec. Seg. do Trabalho</a></li>
+              </ul>
+            </div>
+          </div> -->
+
+          <div id="base" class="col s12">
             <h4 class="left-align">Base Comum</h4>
             <div class="row">
               <div class="col s6 m4 l2">
