@@ -3,8 +3,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 10px 20px 20px 20px;
-    max-height: 400px;
+    padding: 30px 20px 20px 30px;
+    max-height: 700px;
   }
 
   .mission-test h3 {
@@ -17,16 +17,17 @@
   }
 
   .mission-test div {
-    width: 50%;
+    width: 80%;
     height: 100%;
     margin: 10px auto;
-    max-width: 500px;
-    font-size: zem;
+    max-width: 800px;
+    font-size: 1.2em;
   }
 
-  @media(max-width: 768px) {
+  @media(max-width: 800px) {
     .mission-test div {
-      width: 60%;
+      width: 90%;
+      max-height: 650px;
     }
   }
 
