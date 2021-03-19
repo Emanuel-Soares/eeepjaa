@@ -28,8 +28,8 @@
         <div class="number-spacing">
           <div class="number-circle">
             <img src="/assets/icons/aprovados.webp" alt="Aprovados">
-            <span class="center white-text number">21</span>
-            <span class="center white-text">Aprovados UECE 2020</span>
+            <span class="center white-text number">36</span>
+            <span class="center white-text">Aprovados em universidades</span>
           </div>
         </div>
       </div>

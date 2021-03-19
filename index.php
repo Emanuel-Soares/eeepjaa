@@ -11,6 +11,11 @@
   <link rel="stylesheet" href="/assets/css/home/structure.css">
   <link rel="stylesheet" href="/assets/css/home/management.css">
   <title>EEEP - Joaquim Albano</title>
+  <style>
+    body {
+      font-size: 1.15em;
+    }
+  </style>
 </head>
 
 <body>
@@ -27,10 +32,26 @@
       </div>
       <?php include 'components/home/news.php' ?>
       <?php include 'components/home/faq.php' ?>
+      <?php include 'components/home/rate.php' ?>
     </main>
   </div>
   <?php include 'common/homeButton.php' ?>
   <?php include 'common/footer.php' ?>
+
+  <script>
+    $(document).ready(() => {
+      let qtd = 0
+      const openModal = e => {
+        if (window.scrollY >= document.body.clientHeight * 0.85 && qtd === 0) {
+          $('#rate').modal('open')
+          qtd++
+        }
+      }
+      if (!window.localStorage.getItem('rate')) {
+        document.body.onscroll = openModal
+      }
+    })
+  </script>
 </body>
 
 </html>
