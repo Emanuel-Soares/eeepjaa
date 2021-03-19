@@ -66,6 +66,16 @@
             O ensino integrado é formado pela mescla de aulas da base comum e das aulas referentes a base técnica onde o período que o aluno permanece na escola é de 4 turnos divididos entre 3 intervalos.
           </span></div>
       </li>
+      </li>
+      <li>
+        <div class="collapsible-header valign-wrapper faq-border">
+        <a href="/sobre">
+          <h5 class="teal-text text-darken-4">
+            Saiba mais!
+          </h5>
+        </a>
+        </div>
+      </li>
     </ul>
   </div>
 </div>
