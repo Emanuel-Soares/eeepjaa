@@ -9,8 +9,12 @@
   padding: 15% 0;
   box-sizing: border-box;
   height: 450px;
-  font-weight: 900;
 }
+
+.text-bold {
+  font-weight: 800;
+}
+
 .content-mission {
   font-size: 1.6em;
   margin-top: -90px;
