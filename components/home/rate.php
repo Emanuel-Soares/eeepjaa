@@ -7,7 +7,10 @@
 <div id="rate" class="modal">
   <div class="modal-content center">
     <form id="rate-form" method="post">
-      <h2 style="font-size: 1.6em" class="heading">O que achou de nosso site?</h2>
+      <div class="center">
+        <img style="max-height: 80px" src="/assets/icons/logo.webp" alt="Logo">
+      </div>
+      <h2 style="font-size: 1.6em" class="heading">O que achou de nosso site? Avalie-nos!</h2>
       <p class="range-field">
         <input type="range" class="orange" name="rate" min="0" max="10" />
       </p>
