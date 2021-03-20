@@ -15,7 +15,7 @@
     <div style="margin-left: 10%;">
       <h3>Quem Somos?</h3>
       <h4>E.E.E.P. Joaquim Antônio Albano</h4>
-      <p class="red-text"><i class="tiny material-icons">info_outline</i>  Clique nas fotos para abrir as informações.</p>
+      <p class="red-text"><i class="tiny material-icons">info_outline</i> Clique nas fotos para abrir as informações.</p>
     </div>
 
 
@@ -732,6 +732,36 @@
                   </div>
                 </div>
               </div>
+              <div class="col s6 m4 l2">
+                <div class="card hoverable">
+                  <div class="card-image waves-effect waves-block waves-light modal-trigger" href="#modalCla">
+                    <img class="activator" src="../assets/img/management/claudio.png">
+                  </div>
+                  <hr>
+                  <div>
+                    <span class="grey-text text-darken-4">
+                      <p>Claudio Albano</p>
+                      <p class="teal-text">Informática</p>
+                    </span>
+                  </div>
+                  <hr>
+
+                  <!-- Modal Structure -->
+                  <div id="modalCla" class="modal">
+                    <div class="modal-content">
+                      <h3>Claudio Albano</h3>
+                      <hr>
+                      <h5>Formação Acadêmica</h5>
+                      <p>Graduado em Geografia, Especialista em Gestão Educacional, Superior Técnico em Microinformática.</p>
+                      <h5>Função na Escola</h5>
+                      <p>Chefe do LEI e Professor de Informática Básica.</p>
+                    </div>
+                    <div class="modal-footer">
+                      <a href="#!" class="modal-close waves-effect waves-red btn-flat"><i class="material-icons">close</i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -955,37 +985,6 @@
                   </div>
                 </div>
               </div>
-              <div class="col s6 m4 l2">
-                <div class="card hoverable">
-                  <div class="card-image waves-effect waves-block waves-light modal-trigger" href="#modalCla">
-                    <img class="activator" src="../assets/img/management/claudio.png">
-                  </div>
-                  <hr>
-                  <div>
-                    <span class="grey-text text-darken-4">
-                      <p>Claudio Albano</p>
-                      <p class="teal-text">Informática</p>
-                    </span>
-                  </div>
-                  <hr>
-
-                  <!-- Modal Structure -->
-                  <div id="modalCla" class="modal">
-                    <div class="modal-content">
-                      <h3>Claudio Albano</h3>
-                      <hr>
-                      <h5>Formação Acadêmica</h5>
-                      <p>Graduado em Geografia, Especialista em Gestão Educacional, Superior Técnico em Microinformática.</p>
-                      <h5>Função na Escola</h5>
-                      <p>Chefe do LEI e Professor de Informática Básica.</p>
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#!" class="modal-close waves-effect waves-red btn-flat"><i class="material-icons">close</i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
             </div>
           </div>
 
