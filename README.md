@@ -10,7 +10,7 @@ Fazer sumário com linkagens para títulos.
 
 ## A fazer
 
-- [ ] Página home
+- [x] Página home
 - [ ] Página Cursos
 - [X] Página Base Curricular
 - [ ] Página Eventos
